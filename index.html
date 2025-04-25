@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2050活动日程</title>
+    <style>
+        :root {
+            --primary-color: #5E3AD7; /* 紫色 */
+            --secondary-color: #4A2EB3; /* 深紫色 */
+            --accent-color: #F9D423; /* 黄色 */
+            --light-bg: #FFFBEB; /* 浅黄色背景 */
+            --dark-bg: #5E3AD7; /* 紫色背景 */
+            --text-color: #333;
+            --light-text: #FFFFFF;
+            --highlight-blue: #7BBFEA; /* 浅蓝色点缀 */
+        }
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'PingFang SC', 'Helvetica Neue', Arial, sans-serif;
+            line-height: 1.2;
+            color: var(--text-color);
+            background-color: var(--light-bg);
+            padding: 5px;
+        }
+        
+        .container {
+            max-width: 100%;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 10px;
+            padding: 8px;
+            background-color: var(--accent-color);
+            color: var(--primary-color);
+            border-radius: 4px;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            font-size: 1.5rem;
+            margin-bottom: 3px;
+        }
+        
+        .location-group {
+            margin-bottom: 10px;
+            background-color: white;
+            border-radius: 4px;
+            overflow: hidden;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+        }
+        
+        .location-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 5px 8px;
+            font-size: 1rem;
+            font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .time-period {
+            font-size: 0.85rem;
+            background-color: var(--secondary-color);
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-left: 8px;
+        }
+        
+        .activities {
+            padding: 5px;
+        }
+        
+        .activity {
+            margin-bottom: 8px;
+            padding: 5px;
+            background-color: var(--light-bg);
+            border-radius: 3px;
+            border-left: 3px solid var(--primary-color);
+        }
+        
+        .activity-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 3px;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 3px;
+        }
+        
+        .activity-title {
+            font-size: 0.95rem;
+            font-weight: bold;
+            color: var(--primary-color);
+            flex: 1;
+            margin-left: 5px;
+        }
+        
+        .activity-time {
+            color: var(--secondary-color);
+            font-weight: bold;
+            font-size: 0.85rem;
+            white-space: nowrap;
+            margin-left: 5px;
+        }
+        
+        .activity-number {
+            background-color: var(--accent-color);
+            color: var(--primary-color);
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            margin-right: 5px;
+            font-size: 0.75rem;
+            font-weight: bold;
+            flex-shrink: 0;
+        }
+        
+        .conveners, .shares {
+            font-size: 0.8rem;
+        }
+        
+        .convener, .share {
+            margin-bottom: 3px;
+        }
+        
+        .convener {
+            display: flex;
+            align-items: baseline;
+            padding: 2px 5px;
+        }
+        
+        .convener-label {
+            font-weight: bold;
+            margin-right: 5px;
+            color: var(--text-color);
+            font-size: 0.8rem;
+            white-space: nowrap;
+        }
+        
+        .convener-name, .share-presenter {
+            color: var(--text-color);
+            font-weight: bold;
+            margin-right: 5px;
+            white-space: nowrap; /* 确保姓名不换行 */
+        }
+        
+        .convener-intro, .share-intro {
+            font-style: italic;
+            color: #666;
+            font-size: 0.75rem;
+            flex: 1; /* 让简介部分占据剩余空间 */
+        }
+        
+        .shares {
+            margin-top: 5px;
+        }
+        
+        .share {
+            padding: 2px 5px;
+            border-left: 2px solid var(--highlight-blue);
+            margin-bottom: 3px;
+            background-color: rgba(255, 251, 235, 0.5);
+        }
+        
+        .share-title {
+            font-weight: bold;
+            color: var(--primary-color);
+            margin-bottom: 2px;
+        }
+        
+        .share-info {
+            display: flex;
+            align-items: baseline;
+            flex-wrap: wrap; /* 允许在必要时换行 */
+        }
+        
+        .convener {
+            display: flex;
+            align-items: baseline;
+            padding: 2px 5px;
+            flex-wrap: wrap; /* 允许在必要时换行 */
+        }
+        
+        .empty-notice {
+            color: #999;
+            font-style: italic;
+            padding: 3px;
+            font-size: 0.75rem;
+        }
+        
+        .pending {
+            color: #999;
+            font-style: italic;
+        }
+        
+        .filter-container {
+            margin-bottom: 8px;
+            display: flex;
+            gap: 3px;
+            flex-wrap: wrap;
+        }
+        
+        .filter-btn {
+            padding: 3px 6px;
+            background-color: var(--light-bg);
+            border: 1px solid var(--primary-color);
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.75rem;
+        }
+        
+        .filter-btn:hover, .filter-btn.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .search-container {
+            margin-bottom: 8px;
+        }
+        
+        .search-input {
+            width: 100%;
+            padding: 4px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+            font-size: 0.85rem;
+        }
+        
+        @media print {
+            body {
+                padding: 0;
+                font-size: 9pt;
+                background-color: white;
+            }
+            
+            .search-container, .filter-container {
+                display: none;
+            }
+            
+            .location-group {
+                break-inside: avoid;
+                page-break-inside: avoid;
+                margin-bottom: 8px;
+                box-shadow: none;
+                border: 1px solid #ddd;
+            }
+            
+            .activity {
+                break-inside: avoid;
+                page-break-inside: avoid;
+            }
+            
+            header {
+                margin-bottom: 8px;
+                box-shadow: none;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .location-header {
+                flex-direction: row;
+                align-items: center;
+            }
+            
+            .activity-header {
+                flex-direction: row;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>2050@2025 新生论坛</h1>
+            <p>年青就要最大声分享</p>
+            <!-- <p><br /></p>
+            <p class="note" style="font-size: 0.8rem; margin-top: 8px; color: #666; font-style: italic;">本文档为新生论坛内容的预览版，请大家一起来找茬。<br>
+                本版本包含了所有新生论坛，以及部分和新生论坛共享场地的热带雨林、思想约会。<br>
+                如果找到错误，请给 elfexu 发微信消息，并提供完整的正确信息。</p> -->
+            <div class="language-switch">
+                <button id="zh-btn" class="lang-btn active">中文</button>
+                <button id="en-btn" class="lang-btn">English</button>
+            </div>
+        </header>
+        
+        <!-- <div class="search-container">
+            <input type="text" id="searchInput" class="search-input" placeholder="搜索活动、召集人或分享者...">
+        </div> -->
+
+        <div class="filter-container" id="filter-container">
+            <!-- 过滤按钮将通过JavaScript动态加载 -->
+        </div>
+        
+        <!-- 移除过滤按钮容器 -->
+        
+        <div id="activities-container">
+            <!-- 活动内容将通过JavaScript动态加载 -->
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // 语言设置
+            let currentLang = 'zh'; // 默认为中文
+            const translations = {
+                zh: {
+                    title: '2050@2025 新生论坛',
+                    subtitle: '年青就要最大声分享',
+                    all: '全部',
+                    day26am: '26日上午',
+                    day26pm: '26日下午',
+                    day27am: '27日上午',
+                    day27pm: '27日下午',
+                    loadError: '加载数据失败，请刷新页面重试。',
+                    convener: '召集人:',
+                    unspecifiedTopic: '未指定主题',
+                    unspecifiedLocation: '未指定地点',
+                    unspecifiedTime: '未指定时间',
+                    pending: '待定',
+                    timeNotSet: '时间待定'
+                },
+                en: {
+                    title: '2050@2025 Freshman Forum',
+                    subtitle: 'Young voices, loud sharing',
+                    all: 'All',
+                    day26am: '26th Morning',
+                    day26pm: '26th Afternoon',
+                    day27am: '27th Morning',
+                    day27pm: '27th Afternoon',
+                    loadError: 'Failed to load data. Please refresh the page.',
+                    convener: 'Convener:',
+                    unspecifiedTopic: 'Unspecified Topic',
+                    unspecifiedLocation: 'Unspecified Location',
+                    unspecifiedTime: 'Unspecified Time',
+                    pending: 'Pending',
+                    timeNotSet: 'Time not set'
+                }
+            };
+            
+            // 设置语言切换按钮
+            const zhBtn = document.getElementById('zh-btn');
+            const enBtn = document.getElementById('en-btn');
+            
+            zhBtn.addEventListener('click', function() {
+                if (currentLang !== 'zh') {
+                    currentLang = 'zh';
+                    updateLanguage();
+                    zhBtn.classList.add('active');
+                    enBtn.classList.remove('active');
+                }
+            });
+            
+            enBtn.addEventListener('click', function() {
+                if (currentLang !== 'en') {
+                    currentLang = 'en';
+                    updateLanguage();
+                    enBtn.classList.add('active');
+                    zhBtn.classList.remove('active');
+                }
+            });
+            
+            // 更新语言函数
+            function updateLanguage() {
+                // 更新标题和副标题
+                document.querySelector('header h1').textContent = translations[currentLang].title;
+                document.querySelector('header p').textContent = translations[currentLang].subtitle;
+                
+                // 更新过滤器按钮
+                updateFilterButtons();
+                
+                // 重新加载数据
+                loadData();
+            }
+            
+            // 更新过滤器按钮
+            function updateFilterButtons() {
+                const filterContainer = document.getElementById('filter-container');
+                filterContainer.innerHTML = `
+                    <button class="filter-btn active" data-filter="all">${translations[currentLang].all}</button>
+                    <button class="filter-btn" data-filter="26-am">${translations[currentLang].day26am}</button>
+                    <button class="filter-btn" data-filter="26-pm">${translations[currentLang].day26pm}</button>
+                    <button class="filter-btn" data-filter="27-am">${translations[currentLang].day27am}</button>
+                    <button class="filter-btn" data-filter="27-pm">${translations[currentLang].day27pm}</button>
+                `;
+                
+                // 重新设置过滤器功能
+                setupFilters();
+            }
+            
+            // 加载数据
+            function loadData() {
+                const dataFile = currentLang === 'zh' ? 'merged_activities.json' : 'merged_activities_en.json';
+                
+                fetch(dataFile)
+                    .then(response => response.json())
+                    .then(data => {
+                        renderActivities(data);
+                    })
+                    .catch(error => {
+                        console.error('加载数据失败:', error);
+                        document.getElementById('activities-container').innerHTML = 
+                            `<div class="error">${translations[currentLang].loadError}</div>`;
+                    });
+            }
+            
+            // 渲染活动数据
+            function renderActivities(activities) {
+                const container = document.getElementById('activities-container');
+                container.innerHTML = '';
+                
+                activities.forEach(locationGroup => {
+                    if (!locationGroup.地点 || !locationGroup.活动 || locationGroup.活动.length === 0) return;
+                    
+                    const locationElement = document.createElement('div');
+                    locationElement.className = 'location-group';
+                    
+                    // 设置过滤器属性
+                    let filterClass = '';
+                    if (locationGroup.时间段) {
+                        // 修改这里的条件判断，使其与JSON数据中的格式一致
+                        if (locationGroup.时间段.includes('26日上午') || locationGroup.时间段.includes('26th Morning')) 
+                            filterClass = 'filter-26-am';
+                        else if (locationGroup.时间段.includes('26日下午') || locationGroup.时间段.includes('26th Afternoon')) 
+                            filterClass = 'filter-26-pm';
+                        else if (locationGroup.时间段.includes('27日上午') || locationGroup.时间段.includes('27th Morning')) 
+                            filterClass = 'filter-27-am';
+                        else if (locationGroup.时间段.includes('27日下午') || locationGroup.时间段.includes('27th Afternoon')) 
+                            filterClass = 'filter-27-pm';
+                    }
+                    locationElement.className += ' ' + filterClass;
+                    
+                    // 地点和时间段标题在同一行
+                    locationElement.innerHTML = `
+                        <div class="location-header">
+                            <div>${locationGroup.地点 || translations[currentLang].unspecifiedLocation} <span class="time-period">${locationGroup.时间段 || translations[currentLang].unspecifiedTime}</span></div>
+                        </div>
+                        <div class="activities"></div>
+                    `;
+                    
+                    const activitiesContainer = locationElement.querySelector('.activities');
+                    
+                    // 添加每个活动
+                    locationGroup.活动.forEach(activity => {
+                        if (!activity) return;
+                        
+                        const activityElement = document.createElement('div');
+                        activityElement.className = 'activity';
+                        
+                        // 活动标题和时间在同一行
+                        activityElement.innerHTML = `
+                            <div class="activity-header">
+                                <div class="activity-number">${activity.序号 || '-'}</div>
+                                <div class="activity-title">${activity.标题 || translations[currentLang].pending}</div>
+                                <div class="activity-time">${activity.时间 || translations[currentLang].timeNotSet}</div>
+                            </div>
+                        `;
+                        
+                        // 添加召集人
+                        const convenersElement = document.createElement('div');
+                        convenersElement.className = 'conveners';
+                        
+                        if (activity.召集人 && activity.召集人.length > 0) {
+                            activity.召集人.forEach(convener => {
+                                if (!convener || (!convener.姓名 && !convener.简介)) return;
+                                
+                                // 如果姓名为"待定"或为空，则不显示召集人信息
+                                if (convener.姓名 === '待定' || convener.姓名 === 'Pending' || !convener.姓名) return;
+                                
+                                const convenerElement = document.createElement('div');
+                                convenerElement.className = 'convener';
+                                convenerElement.innerHTML = `
+                                    <div class="convener-label">${translations[currentLang].convener}</div>
+                                    <div class="convener-name">${convener.姓名}</div>
+                                    <div class="convener-intro">${convener.简介 || ''}</div>
+                                `;
+                                convenersElement.appendChild(convenerElement);
+                            });
+                            
+                            // 如果没有添加任何召集人元素，显示暂无信息
+                            if (convenersElement.children.length === 0) {
+                                convenersElement.innerHTML = '';
+                            }
+                        } else {
+                            convenersElement.innerHTML = '';
+                        }
+                        
+                        activityElement.appendChild(convenersElement);
+                        
+                        // 添加环节内容（原分享内容）
+                        if (activity.环节 && activity.环节.length > 0) {
+                            const sessionsElement = document.createElement('div');
+                            sessionsElement.className = 'shares'; // 保留原有的CSS类名
+                            
+                            activity.环节.forEach(session => {
+                                if (!session) return;
+                                
+                                const sessionElement = document.createElement('div');
+                                sessionElement.className = 'share'; // 保留原有的CSS类名
+                                
+                                // 添加环节标题
+                                let sessionHTML = `<div class="share-title">${session.标题 || ''}</div>`;
+                                
+                                // 如果有人员，则添加人员信息
+                                if (session.人员 && session.人员.length > 0) {
+                                    let hasValidPerson = false;
+                                    
+                                    session.人员.forEach(person => {
+                                        if (!person) return;
+                                        // 如果姓名为"待定"或为空，则不显示该人员信息
+                                        if (person.姓名 === '待定' || person.姓名 === 'Pending' || !person.姓名) return;
+                                        
+                                        hasValidPerson = true;
+                                        sessionHTML += `
+                                            <div class="share-info">
+                                                <div class="share-presenter">${person.姓名}</div>
+                                                <div class="share-intro">${person.简介 || ''}</div>
+                                            </div>
+                                        `;
+                                    });
+                                    
+                                    // 如果没有有效人员，添加提示信息
+                                    if (!hasValidPerson) {
+                                        sessionHTML += '';
+                                    }
+                                } else {
+                                    sessionHTML += '';
+                                }
+                                
+                                sessionElement.innerHTML = sessionHTML;
+                                sessionsElement.appendChild(sessionElement);
+                            });
+                            
+                            activityElement.appendChild(sessionsElement);
+                        }
+                        // 兼容旧格式的分享内容
+                        else if (activity.分享 && activity.分享.length > 0) {
+                            const sharesElement = document.createElement('div');
+                            sharesElement.className = 'shares';
+                            
+                            activity.分享.forEach(share => {
+                                if (!share) return;
+                                
+                                const shareElement = document.createElement('div');
+                                shareElement.className = 'share';
+                                
+                                // 处理分享者姓名可能是数组的情况
+                                let presenterName = '';
+                                if (Array.isArray(share.姓名)) {
+                                    // 过滤掉"待定"或空值
+                                    const validNames = share.姓名.filter(name => name && name !== '待定' && name !== 'Pending');
+                                    presenterName = validNames.length > 0 ? validNames.join('、') : '';
+                                } else {
+                                    presenterName = (share.姓名 && share.姓名 !== '待定' && share.姓名 !== 'Pending') ? share.姓名 : '';
+                                }
+                                
+                                // 处理简介可能是数组的情况
+                                let introText = '';
+                                if (Array.isArray(share.简介)) {
+                                    introText = share.简介.filter(intro => intro).join('、') || '';
+                                } else {
+                                    introText = share.简介 || '';
+                                }
+                                
+                                let shareHTML = `<div class="share-title">${share.标题 || translations[currentLang].unspecifiedTopic}</div>`;
+                                
+                                // 只有当有有效的分享者姓名时才显示人员信息
+                                if (presenterName) {
+                                    shareHTML += `
+                                        <div class="share-info">
+                                            <div class="share-presenter">${presenterName}</div>
+                                            <div class="share-intro">${introText}</div>
+                                        </div>
+                                    `;
+                                } else {
+                                    shareHTML += '';
+                                }
+                                
+                                shareElement.innerHTML = shareHTML;
+                                sharesElement.appendChild(shareElement);
+                            });
+                            
+                            activityElement.appendChild(sharesElement);
+                        }
+                        
+                        activitiesContainer.appendChild(activityElement);
+                    });
+                    
+                    container.appendChild(locationElement);
+                });
+            }
+            
+            // 设置过滤器功能
+            function setupFilters() {
+                const filterButtons = document.querySelectorAll('.filter-btn');
+                
+                filterButtons.forEach(button => {
+                    button.addEventListener('click', function() {
+                        // 移除所有按钮的active类
+                        filterButtons.forEach(btn => btn.classList.remove('active'));
+                        // 给当前按钮添加active类
+                        this.classList.add('active');
+                        
+                        const filter = this.getAttribute('data-filter');
+                        const groups = document.querySelectorAll('.location-group');
+                        
+                        groups.forEach(group => {
+                            if (filter === 'all') {
+                                group.style.display = 'block';
+                            } else {
+                                if (group.classList.contains(`filter-${filter}`)) {
+                                    group.style.display = 'block';
+                                } else {
+                                    group.style.display = 'none';
+                                }
+                            }
+                        });
+                    });
+                });
+            }
+            
+            // 初始化页面
+            updateFilterButtons();
+            loadData();
+        });
+    </script>
+    
+    <!-- <footer style="text-align: center; margin-top: 20px; padding: 10px; font-size: 0.8rem; color: #666; border-top: 1px solid #ddd;">
+        新生论坛@2050@2025 预览版(2025.04.21) 请多多来找茬及时报告
+    </footer> -->
+</body>
+</html>

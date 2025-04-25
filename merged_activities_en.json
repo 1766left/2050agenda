@@ -1,0 +1,5635 @@
+[
+  {
+    "地点": "Yun Qi Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-10:00",
+        "序号": "",
+        "标题": "Decoding Deep-Sea Secrets with Cutting-Edge Tech",
+        "召集人": [
+          {
+            "姓名": "Wang Yuntao",
+            "简介": "Second Institute of Oceanography, Ministry of Natural Resources — Guardians of Marine Ecology and Environment"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Light in the Deep Sea",
+            "人员": [
+              {
+                "姓名": "Zhang Xueting",
+                "简介": "Hangzhou Dianzi University"
+              }
+            ]
+          },
+          {
+            "标题": "Listening to the Ocean’s Voice",
+            "人员": [
+              {
+                "姓名": "Zhu Hanhao",
+                "简介": "Zhejiang Ocean University"
+              }
+            ]
+          },
+          {
+            "标题": "Deep Sea Digital Twin",
+            "人员": [
+              {
+                "姓名": "Zhang Jin",
+                "简介": "Zhijiang Laboratory"
+              }
+            ]
+          },
+          {
+            "标题": "Seafloor Alchemy Furnace",
+            "人员": [
+              {
+                "姓名": "Weng Lichun",
+                "简介": "Zhejiang Hanlu Subsea System Engineering Technology Co., Ltd."
+              }
+            ]
+          },
+          {
+            "标题": "Deep-Sea Medicine Treasure Hunt",
+            "人员": [
+              {
+                "姓名": "Wang PianPian",
+                "简介": "Peking University Ningbo Institute of Marine Pharmaceuticals"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:00 - 11:00",
+        "序号": "",
+        "标题": "AI + Astronomy: Decoding the Intelligent Revolution of Deep Space Signals",
+        "召集人": [
+          {
+            "姓名": "Ni Shulei",
+            "简介": "Senior Research Fellow / Assistant Researcher, Zhijiang Laboratory\nAI-powered prospector of astronomical data"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "AI Empowers GOTTA: From Lenghu to the World",
+            "人员": [
+              {
+                "姓名": "Liu Jifeng",
+                "简介": "National Astronomical Observatories, Chinese Academy of Sciences (NAOC)"
+              }
+            ]
+          },
+          {
+            "标题": "Tracking Interstellar Molecules: AI Illuminates Atomic and Molecular Reactions",
+            "人员": [
+              {
+                "姓名": "Wang jiawei",
+                "简介": "Zhijiang Laboratory"
+              }
+            ]
+          },
+          {
+            "标题": "Archaeology of Light: A 93-Billion-Light-Year Journey Through Space and Time",
+            "人员": [
+              {
+                "姓名": "Jean - Paul Kneib",
+                "简介": "École Polytechnique Fédérale de Lausanne (EPFL)"
+              }
+            ]
+          },
+          {
+            "标题": "Large Models Powering Integrated Astronomy Research, Education, and Outreach",
+            "人员": [
+              {
+                "姓名": "Li Yuyang",
+                "简介": "National Astronomical Observatories, Chinese Academy of Sciences (NAOC)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "Utopias of Polar Cities: Imagining New Urban Futures in Extreme Environments ",
+        "召集人": [
+          {
+            "姓名": "Wu Dengguo",
+            "简介": "Deputy Director of the Urban Construction Institute, East China Electric Power Design Institute — A tireless creator of ultimate living spaces"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "China's Antarctic Qinling Station",
+            "人员": [
+              {
+                "姓名": "Duan Meng",
+                "简介": "Director of the Fifth Institute, China Architecture Design & Research Group — An explorer in Antarctic station design"
+              }
+            ]
+          },
+          {
+            "标题": "Creating Livable Spaces in Extreme Environments: From the Third Pole to the Antarctic Continent",
+            "人员": [
+              {
+                "姓名": "Ye Zhiwu",
+                "简介": "Executive Director of the High-Altitude/Polar Center, China Academy of Building Research — Pioneer in creating livable environments under extreme conditions"
+              }
+            ]
+          },
+          {
+            "标题": "Polar Renewable Energy Microgrid Systems",
+            "人员": [
+              {
+                "姓名": "Guo Dongliang",
+                "简介": "PhD from Taiyuan University of Technology — The energy guardian illuminating Qinling in the polar night"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "12:00-12:45",
+        "序号": "",
+        "标题": "Digital-Driven Earth Science Research",
+        "召集人": [
+          {
+            "姓名": "Xiao Yitian",
+            "简介": "Chief Scientist at Zhejiang Deep-Time Digital Earth International Research Center; Geoscientist Exploring Scientific Paradigm Evolution"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Digital Engraving of Time: A Digital Outcrop Collection Journey in Southern France's Gold Nail Cross-Section",
+            "人员": [
+              {
+                "姓名": "Deng Yiying",
+                "简介": "Lecturer at Hefei University of Technology; A University Teacher Who \"Plays with Stones\" Daily"
+              }
+            ]
+          },
+          {
+            "标题": "Application of Magmatic Rock Databases: The Newfoundland Island Special Database Example",
+            "人员": [
+              {
+                "姓名": "Wang Chaoyang",
+                "简介": "PhD from China University of Geosciences; Core Team Member of DDE - OnePetrology Project; Rock DNA Analyst and Earth Puzzle Worker"
+              }
+            ]
+          },
+          {
+            "标题": "GeoGPT: AI for GeoScientists - Decoding 4.6 Billion Years of Earth's Evolution",
+            "人员": [
+              {
+                "姓名": "Zhou Ying",
+                "简介": "Research Expert at Zhijiang Laboratory; Creating AI Add-Ons for Researchers, Open-Source Buff+"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Yun Qi Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-13:45",
+        "序号": "",
+        "标题": "How we teamed up with the youth of Yunqi Town to launch a satellite in Muscat, Oman",
+        "召集人": [
+          {
+            "姓名": "Mr. Ali Al Wahaibi；Chen Junjie",
+            "简介": ""
+          }
+        ],
+        "环节": [
+          {
+            "标题": "From Desert to Space: Oman Gets Its Own Eyes",
+            "人员": [
+              {
+                "姓名": "Mr. Ali Al Wahaibi",
+                "简介": "Engineer at Oman Lanse Company, an tireless young innovator driving change in the Gulf region"
+              }
+            ]
+          },
+          {
+            "标题": "How Hardcore is Building a Star? The Making of Oman’s Satellite",
+            "人员": [
+              {
+                "姓名": "Chen Junjie",
+                "简介": "Satellite Chief Engineer at EarthSat-2, a satellite builder with a perfectionist barista touch"
+              }
+            ]
+          },
+          {
+            "标题": "How to Build a Satellite Ground Station in 90 Days",
+            "人员": [
+              {
+                "姓名": "Jiang Qi",
+                "简介": "Space Program Design Engineer at EarthSat-2, a rapid deployment expert adept in both labs and deserts"
+              }
+            ]
+          },
+          {
+            "标题": "How Does an Application Reach the Sky? Insights and Reflections from Oman’s Satellite!",
+            "人员": [
+              {
+                "姓名": "Zhang Hui",
+                "简介": "Chief Engineer of Space-Based Distributed Operating Systems at Zhijiang Lab, a coder deploying ground cloud computing to the sky"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "13:45-14:30",
+        "序号": "",
+        "标题": "Chang'e 8 Hitchhiking Guide: Our Robot is Heading to the Moon!",
+        "召集人": [
+          {
+            "姓名": "Mr. Soken Halil Ersin；Yu Yonglong",
+            "简介": ""
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Our Moon Mission \"Partner\": Co-creating the Chang'e 8 Lunar Robot with the Chinese Team",
+            "人员": [
+              {
+                "姓名": "Mr. Soken Halil Ersin",
+                "简介": "Professor at Middle East Technical University, Head of Chang'e 8 International Cooperation Project, a space technology researcher passionate about both deep space and life."
+              }
+            ]
+          },
+          {
+            "标题": "The Passionate World of Hong Kong's New Space Pioneers: From the Oriental Pearl to the Far Side of the Moon",
+            "人员": [
+              {
+                "姓名": "Lu Jingkun",
+                "简介": "Executive President of Hong Kong Space Association, the trendsetter most obsessed with space in the world’s financial center"
+              }
+            ]
+          },
+          {
+            "标题": "404 Not Found, but \"404\": Talking About Nuclear Power and Lunar Exploration",
+            "人员": [
+              {
+                "姓名": "Yu Yonglong",
+                "简介": "Senior Engineer at China Nuclear 404 Ltd., an engineer researching nuclear energy in the Gobi Desert"
+              },
+              {
+                "姓名": "Ding Xindong",
+                "简介": "Chief Technology Officer of a unicorn company / AI Developer & Builder / Head of MuseAI, Atypica.AI"
+              },
+              {
+                "姓名": "He Ziming",
+                "简介": "No technical difficulties / Zaha Hadid Architects / UCL / Ph.D."
+              },
+              {
+                "姓名": "Gao Yifang",
+                "简介": "National Level 2 Psychological Counselor / Senior Interaction Designer at ACAA / Ph.D."
+              },
+              {
+                "姓名": "Li Dan",
+                "简介": "Experience at various universities / Central Academy of Fine Arts, Tongji, MIT"
+              },
+              {
+                "姓名": "Han Yuhao",
+                "简介": "Graduate student at LuXun Academy of Fine Arts / Sensory Overload / Ink Graphics / Traditional Culture"
+              },
+              {
+                "姓名": "Hua Zhengming",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:30-15:30",
+        "序号": "",
+        "标题": "ETC Debate: Who is 2025",
+        "召集人": [
+          {
+            "姓名": "Tian Mei",
+            "简介": "Producer and Chief Director of CCTV's \"Win with AI+\" / 30 years in media, crossing into the AI field"
+          }
+        ],
+        "环节": []
+      },
+      {
+        "时间": "15:30-17:00",
+        "序号": "",
+        "标题": "Creative Reasoning: From Infinite Computing Power to Infinite Imagination",
+        "召集人": [
+          {
+            "姓名": "Fang Lin",
+            "简介": "Director of Tongji University's Design Artificial Intelligence Lab / Founder and CEO of Tezign Technology"
+          }
+        ],
+        "环节": []
+      },
+      {
+        "时间": "17:00-18:30",
+        "序号": "",
+        "标题": "Fantasy and Reality: The Special Session of Caijing — Technology as the String, Strumming the Limits of Humanity",
+        "召集人": [
+          {
+            "姓名": "Wang Qiubing",
+            "简介": "A tech and wellness enthusiast media professional"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Human-Machine Symbiosis",
+            "人员": [
+              {
+                "姓名": "Su Dezhong",
+                "简介": "Founder of You'er Group, Cambridge Psychology PhD"
+              }
+            ]
+          },
+          {
+            "标题": "Sensory Revolution",
+            "人员": [
+              {
+                "姓名": "Han Bicheng",
+                "简介": "Founder and CEO of Qiangnao Technology (Proposed)"
+              }
+            ]
+          },
+          {
+            "标题": "Moonpunk",
+            "人员": [
+              {
+                "姓名": "Bu Xiangwei",
+                "简介": "Co-founder and Co-CEO of Dongfang Space"
+              }
+            ]
+          },
+          {
+            "标题": "Life's Dual Engines",
+            "人员": [
+              {
+                "姓名": "Shang Jie",
+                "简介": "President of Navinci Bio"
+              }
+            ]
+          },
+          {
+            "标题": "Material Magic Moments",
+            "人员": [
+              {
+                "姓名": "Zhou xiao",
+                "简介": "General Manager of Xirui Materials"
+              },
+              {
+                "姓名": "Li Hongwei",
+                "简介": "Founder and CEO of Thunderbird Innovation, the \"tech fanatic\" aiming to change the lives of 1 billion people with AR"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "18:30-18:45",
+        "序号": "",
+        "标题": "The Eye of the Future: The Vision Cognition Revolution Toward 2050",
+        "召集人": [],
+        "环节": []
+      },
+      {
+        "时间": "18:45-19:00",
+        "序号": "",
+        "标题": "When AI Can Control Stage Lighting…",
+        "召集人": [
+          {
+            "姓名": "Yi Nuo",
+            "简介": "Founder of Curious Design, an innovator focused on product experience design and a curious explorer of diverse practices"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "When AI Can Control Stage Lighting…",
+            "人员": [
+              {
+                "姓名": "Ping, Cao Junpin",
+                "简介": "Founder of ColorBeam, enabling everyone to become a \"magician\" in light shows"
+              },
+              {
+                "姓名": "Wu Jianbing",
+                "简介": "Founder of SPINOR Airspace, NIKE collaborating artist"
+              },
+              {
+                "姓名": "Zhou boxiong",
+                "简介": "Founder of the Space Computing Application Association at China Academy of Art and MUMAisland"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "19:00 - 19:30",
+        "序号": "",
+        "标题": "Deep Reconstruction: Integration and Innovation",
+        "召集人": [],
+        "环节": []
+      }
+    ]
+  },
+  {
+    "地点": "Yun Qi Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "08:30-09:45",
+        "序号": "",
+        "标题": "Tropical Rainforest: Sun-Chasing Classroom",
+        "召集人": [
+          {
+            "姓名": "Ma Ke",
+            "简介": ""
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Quantum Mechanics: Produced by Göttingen",
+            "人员": [
+              {
+                "姓名": "Cao Zexian",
+                "简介": "Researcher at the Institute of Physics, Chinese Academy of Sciences"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "09:45-10:30",
+        "序号": "",
+        "标题": "Beyond Borders: A New Blueprint for Symbiosis Between Technology, the Poles, and Humanity",
+        "召集人": [
+          {
+            "姓名": "Wang Nan",
+            "简介": "Founder of the Polar Culture Public Welfare Project, Founder of Le Bing Polar; Unconventionally Defined Multi-disciplinary Female Researcher"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Breaking the Ice: The Arctic, Ocean, and Symbiosis",
+            "人员": [
+              {
+                "姓名": "Wang Hangzhou",
+                "简介": "Associate Professor at the School of Ocean Engineering and Technology, Zhejiang University, Member of China’s North and South Pole Scientific Expeditions"
+              }
+            ]
+          },
+          {
+            "标题": "Exploring the Mysteries of the Universe at the Highest Point of Antarctica",
+            "人员": [
+              {
+                "姓名": "Li Zhengyang",
+                "简介": "Researcher at the Nanjing Institute of Astronomical Optics and Technology, Chinese Academy of Sciences, Member of China’s Antarctic Research Team"
+              }
+            ]
+          },
+          {
+            "标题": "Beyond the Boundaries: Exploring Polar Power in Nature and Technology",
+            "人员": [
+              {
+                "姓名": "Wang Nan",
+                "简介": "Founder of the Polar Culture Public Welfare Project, Founder of Le Bing Polar; Unconventionally Defined Multi-disciplinary Female Researcher"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:30-11:30",
+        "序号": "",
+        "标题": "Playing with balloons? We're professionals!",
+        "召集人": [
+          {
+            "姓名": "Huang Wanning",
+            "简介": "Senior Engineer at the Aerospace Institute, Chinese Academy of Sciences, Science Communicator Who Often Takes Balloons Out to Sea for \"Fishing\""
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Stargazing: Near-Space Observatory",
+            "人员": [
+              {
+                "姓名": "Li Yijian",
+                "简介": "Doctoral Student at the School of Aerospace, University of the Chinese Academy of Sciences"
+              }
+            ]
+          },
+          {
+            "标题": "It's All Yours: Near-Space Solar Cell Calibration",
+            "人员": [
+              {
+                "姓名": "Xu Guoning",
+                "简介": "Researcher at the Floating Platform System R&D Center, Aerospace Information Innovation Institute, Chinese Academy of Sciences"
+              }
+            ]
+          },
+          {
+            "标题": "A Promising Untapped Land: High-altitude Wind Power",
+            "人员": [
+              {
+                "姓名": "Gong Zeqi",
+                "简介": "Associate Researcher at Qilu Aerospace Information Institute"
+              }
+            ]
+          },
+          {
+            "标题": "Riding the Wind: Shipborne Tethered Balloon System",
+            "人员": [
+              {
+                "姓名": "Huang Wanning",
+                "简介": "Senior Engineer/Science Communicator at the Floating Platform System R&D Center, Aerospace Information Innovation Institute, Chinese Academy of Sciences"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:30-12:30",
+        "序号": "",
+        "标题": "Gene technology is really fun",
+        "召集人": [
+          {
+            "姓名": "Liu Shiping",
+            "简介": "Gene technology is really fun"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Yin Ge Talks Genetics",
+            "人员": [
+              {
+                "姓名": "Ying Yan",
+                "简介": "CEO of BGI Genomics"
+              }
+            ]
+          },
+          {
+            "标题": "Insect Mating and the Secret of Longevity",
+            "人员": [
+              {
+                "姓名": "Shen Xingxing",
+                "简介": "Zhejiang University \"Hundred Talents Program\" Researcher"
+              }
+            ]
+          },
+          {
+            "标题": "How to Create a Portrait with Genes?",
+            "人员": [
+              {
+                "姓名": "Tang Kun",
+                "简介": "Senior Research at Zhijiang Lab"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Yun Qi Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "12:30-13:15",
+        "序号": "",
+        "标题": "Disciplinary \"X\" Leveraging Underground \"∞\" Resources",
+        "召集人": [
+          {
+            "姓名": "Jin Xu",
+            "简介": "Professor, Director of Research Department, China Petroleum Exploration and Development Research Institute"
+          },
+          {
+            "姓名": "Wang Xiaoqi",
+            "简介": "Senior Engineer, China Petroleum Exploration and Development Research Institute"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Deep Earth Inquiry: How Can Nanobots Unlock Underground Energy Secrets?",
+            "人员": [
+              {
+                "姓名": "Zhengchenjun",
+                "简介": "Engineer at the Interdisciplinary Research Center, China Petroleum Exploration Institute, \"Explorer\" in Oil and Gas Field Development and Underground Space Utilization"
+              }
+            ]
+          },
+          {
+            "标题": "Invisible \"Superpowered Elves\": How Do Micro-Nano Bubbles Carve Air in Water?",
+            "人员": [
+              {
+                "姓名": "Zhaoshuke",
+                "简介": "Graduate Student at the Institute of Permeability, Chinese Academy of Sciences / National Key Laboratory for Enhanced Oil Recovery, Petroleum Industry Researcher of the Post-00s Generation"
+              }
+            ]
+          },
+          {
+            "标题": "Underground Treasure Hunt Guide: A Tactical Handbook for Co-Detecting and Co-Utilizing Associated Resources",
+            "人员": [
+              {
+                "姓名": "Bai Shengchi",
+                "简介": "Senior Engineer at the Interdisciplinary Research Center, China Petroleum Exploration Institute, Focused on Interdisciplinary Materials Research in Oil Companies"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "13:15-14:00",
+        "序号": "",
+        "标题": "Let every pair of eyes see the future.",
+        "召集人": [
+          {
+            "姓名": "Pipi",
+            "简介": ""
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Physicist Hawking's Device: Unveiling Eye-Control Interaction and Eye-Tracking Technology",
+            "人员": [
+              {
+                "姓名": "Wei Cheng",
+                "简介": "Eye-Control Interaction Expert"
+              }
+            ]
+          },
+          {
+            "标题": "StarV Glasses: Revealing the Secret of How the Hearing Impaired 'See' Sound",
+            "人员": [
+              {
+                "姓名": "Xiao Wei",
+                "简介": "Meizu XR Technology Expert"
+              }
+            ]
+          },
+          {
+            "标题": "Biological Democratization of Interaction: The Power of Eyes",
+            "人员": [
+              {
+                "姓名": "Hong Lin Zao Wu",
+                "简介": "Bilibili Uploader"
+              },
+              {
+                "姓名": "Zheng Yinglong",
+                "简介": "Story App Co-founder, an explorer of bringing stories from the screen into reality"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:00-14:15",
+        "序号": "",
+        "标题": "Let Spatial Creation Lead the Era of Spatial Computing",
+        "召集人": [],
+        "环节": []
+      },
+      {
+        "时间": "14:15-15:15",
+        "序号": "",
+        "标题": "Old Friends of Lenghu",
+        "召集人": [
+          {
+            "姓名": "Han Zijun",
+            "简介": "Climbed Mount Everest and descended to the deep sea, an ENTJ exploring the world and self through extreme sports"
+          },
+          {
+            "姓名": "Chu Longfei",
+            "简介": "Rocket engineer, Mars pioneer, and a Cold Lake Sci-Fi Award nominee"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Imagination, Creation, and execution in the vastness of life",
+            "人员": [
+              {
+                "姓名": "Liu Bo",
+                "简介": "Senior media professional, cultural tourism planner, the earliest explorer to propose the \"Mars Town\" concept"
+              }
+            ]
+          },
+          {
+            "标题": "Lenghu Mars Town Plan",
+            "人员": [
+              {
+                "姓名": "Yuan Zhenmin",
+                "简介": "Director of the Mars Immigration Bureau, co-founder of the Lenghu Award, General Manager of Lenghu Mars Town and Lenghu Sci-tech & Cultural Tourism Operations"
+              }
+            ]
+          },
+          {
+            "标题": "Lenghu Spaceport: From Mars to Mars",
+            "人员": [
+              {
+                "姓名": "Chu Longfei",
+                "简介": "Rocket engineer, Mars pioneer, Lenghu Science Fiction Award non-winner"
+              }
+            ]
+          },
+          {
+            "标题": "Lenghu: The fingerprint from Earth to the Universe",
+            "人员": [
+              {
+                "姓名": "Huang Song",
+                "简介": "PhD in Astrophysics from Nanjing University, Associate Professor in the Department of Astronomy at Tsinghua University, Scientist of the Wide-Field Spectral Survey Telescope MUST project, \"Bald Monster Doctor\""
+              }
+            ]
+          },
+          {
+            "标题": "Lenghu Astronomical Observation Base",
+            "人员": [
+              {
+                "姓名": "Chen Xiaotian",
+                "简介": "Chief science expert at the Cold Lake Base, AstroOne astronomy language model explorer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Jian Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "10:00-14:00",
+        "序号": "",
+        "标题": "If 2050 Could Speak: Open Mic",
+        "召集人": [
+          {
+            "姓名": "Tian Mei",
+            "简介": "Producer and Chief Director of CCTV's \"Win with AI+\" / 30 years in media, crossing into the AI field"
+          }
+        ],
+        "环节": []
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Jian Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-16:00",
+        "序号": "",
+        "标题": "In the Age of AI, Is Human Creativity Still Alive?",
+        "召集人": [
+          {
+            "姓名": "Chen Xinyi",
+            "简介": "Teacher at CAA Cultural & Creative Center, Director of External Affairs at DIA (Design Intelligence Award)"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Host",
+            "人员": [
+              {
+                "姓名": "Lu Gang",
+                "简介": "Founder & CEO of TechNode, Co-founder of BEYOND Expo"
+              }
+            ]
+          },
+          {
+            "标题": "Pro Side:\nIn the Age of AI, Human Creativity is in Decline.",
+            "人员": [
+              {
+                "姓名": "Xia Lei",
+                "简介": "PhD Candidate at Tongji University, specializing in the Design & Artificial Intelligence Lab"
+              },
+              {
+                "姓名": "Chen Xiaoyu",
+                "简介": "Associate Professor at China Academy of Art, Founder of Hangzhou Pixel Leap Technology Co., Ltd."
+              },
+              {
+                "姓名": "Wang Zifei",
+                "简介": "Senior high school student at Hangzhou No. 14 High School"
+              },
+              {
+                "姓名": "Fei Li Sai Te",
+                "简介": "Practitioner of Sustainable Living"
+              }
+            ]
+          },
+          {
+            "标题": "Con Side:\nIn the Age of AI, Human Creativity is on the Rise.",
+            "人员": [
+              {
+                "姓名": "Peng Yuxuan",
+                "简介": "Security & Art practitioner"
+              },
+              {
+                "姓名": "Chou Chaoyue",
+                "简介": "Discipline Development Office, China Academy of Art"
+              },
+              {
+                "姓名": "LIO Dali",
+                "简介": "Senior Experience Designer at JD.com / Off-campus Mentor at Sichuan Normal University / AI Digital Art Creator"
+              },
+              {
+                "姓名": "Wang Bancheng",
+                "简介": "AI Entrepreneur & Real-time AI Blogger from Liangzhu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "16:00-18:00",
+        "序号": "",
+        "标题": "What to do when you’re old? Human-machine symbiosis!",
+        "召集人": [
+          {
+            "姓名": "Yi Nuo, Kaishuijun, Li Nan, Elfe",
+            "简介": "Curious Design + HAI Life Lab + Human-Machine Symbiosis Challenge"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Lightning Talks + Expert Comments: A Post-2010 Generation's Vision for Life at 100 — An AI-Driven Design Showcase",
+            "人员": [
+              {
+                "姓名": "Elfe and 20+ teams from the human-machine symbiosis challenge",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Where Smart Tech Meets Aging",
+            "人员": [
+              {
+                "姓名": "Zhou Yanmin",
+                "简介": "Professor at the School of Architecture, Tsinghua University, Ph.D. Supervisor, Elderly Care Design Expert"
+              }
+            ]
+          },
+          {
+            "标题": "Reverse Aging Hack: Gen Z Gets a Head Start in Elder Care School",
+            "人员": [
+              {
+                "姓名": "Wang Dahua",
+                "简介": "Professor of Psychology at Beijing Normal University, Ph.D. Supervisor"
+              }
+            ]
+          },
+          {
+            "标题": "Geek Mode On: Unlocking New Possibilities for a ‘Second Life’",
+            "人员": [
+              {
+                "姓名": "Cao Kai",
+                "简介": "Chairman of Beijing Haixin Intelligent Technology Co., Ltd., Founder and Council Member of the Future Industry Subcommittee, China Society of Technology Economics"
+              }
+            ]
+          },
+          {
+            "标题": "A Brand-New Ocean: Urban “So Hard” Meets Rural “Why Not Give It a Try?”",
+            "人员": [
+              {
+                "姓名": "Li Nan",
+                "简介": "Council Member of Beijing Yichuang Rural Women's Public Welfare Development Center, Founder of Yurong Elderly Care Innovation Practice Base"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "20:00 - 21:00",
+        "序号": "",
+        "标题": "Will schools still exist after AI?",
+        "召集人": [
+          {
+            "姓名": "Tom Tan",
+            "简介": "Founder of Steam Workshop Scratch Programming Community"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Education Screening | After AI, Does School Still Need to Exist?",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Roundtable Discussion",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Jian Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "9:00-10:00",
+        "序号": "",
+        "标题": "From Empathy to Co-Creation",
+        "召集人": [
+          {
+            "姓名": "Hu Bing",
+            "简介": "Founder of Seven Dimensions Education & Fusion Planet"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Tear Down the Wall of \"Obstacles\"",
+            "人员": [
+              {
+                "姓名": "Liu Kun",
+                "简介": "Consultant for UNICEF's Inclusive Education Program"
+              }
+            ]
+          },
+          {
+            "标题": "The Infinite Exploration of a Restricted Individual",
+            "人员": [
+              {
+                "姓名": "Wang Anyun",
+                "简介": "Volunteer for \"Our Sweet Orange Tree\" and \"City Travelers in Wheelchairs\""
+              }
+            ]
+          },
+          {
+            "标题": "The Next Stop for Special Education: AI Integration and Simulated Life",
+            "人员": [
+              {
+                "姓名": "Hu Bing",
+                "简介": "Founder of Seven Dimensions Education & Fusion Planet"
+              }
+            ]
+          },
+          {
+            "标题": "Social Integration from Dual Empathy Perspectives: A Bloom in the Mirror or a Broken Reflection Mended?",
+            "人员": [
+              {
+                "姓名": "Cao Xiu",
+                "简介": "Student in the Department of Special Education, East China Normal University; Future Inclusive Education Teacher with a 12-year contract"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:10-11:00",
+        "序号": "",
+        "标题": "AI has turned the classroom into…",
+        "召集人": [
+          {
+            "姓名": "Teacher Le",
+            "简介": "An AI entrepreneur who can't design games isn't a good language teacher"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "A bold exploration of AI-integrated teaching by a student teacher",
+            "人员": [
+              {
+                "姓名": "Yiting",
+                "简介": "A student teacher who joined an AI startup in sophomore year"
+              }
+            ]
+          },
+          {
+            "标题": "Bringing AI into the classroom—my journey begins",
+            "人员": [
+              {
+                "姓名": "Nikki",
+                "简介": "A teacher at an international school in Beijing, leading the \"AI-Integrated Teaching\" project"
+              }
+            ]
+          },
+          {
+            "标题": "After guiding 1,000 students to express their creativity with AI, I discovered…",
+            "人员": [
+              {
+                "姓名": "Teacher Le",
+                "简介": "Reaffirming: An AI entrepreneur who can't design games isn't a good language teacher"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Jian Yun Hall",
+    "时间段": "27th",
+    "活动": [
+      {
+        "时间": "11:00-15:30",
+        "序号": "",
+        "标题": "Innovative Education in the AI Era",
+        "召集人": [
+          {
+            "姓名": "Wang Jialiang, Xu Yanfei, Li Mei",
+            "简介": "Super Brain AI Teen Entrepreneurship Incubator"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Student Innovation Project Pitch",
+            "人员": [
+              {
+                "姓名": "Group",
+                "简介": "Super Brain AI Incubator, Shenzhen Sci-Tech Innovation Institute, Dali Maomao Guo’er Education Community, Dali Wild Area, Beijing New Talent School, Beijing Yitu Zhizhi School…"
+              }
+            ]
+          },
+          {
+            "标题": "Student Roundtable: My Learning Journey in the AI Era",
+            "人员": [
+              {
+                "姓名": "Group",
+                "简介": "10+ Middle and high school students with their own understanding of learning"
+              }
+            ]
+          },
+          {
+            "标题": "Educators Roundtable: My Educational Reflections in the AI Era",
+            "人员": [
+              {
+                "姓名": "Group",
+                "简介": "40+ Explorers from various education fields and sectors"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Feng Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "9:00-12:00",
+        "序号": "",
+        "标题": "AI Expert Forum | In-depth Analysis of the Growth Secrets of Top Practitioners",
+        "召集人": [
+          {
+            "姓名": "AJ",
+            "简介": "Founder of WaytoAGI, empowering more people through AI"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "WaytoAGI Community Introduction and Business Case",
+            "人员": [
+              {
+                "姓名": "AJ",
+                "简介": "Founder of WaytoAGI, empowering more people through AI"
+              }
+            ]
+          },
+          {
+            "标题": "From Specialized to General: How to Harness the New AI Species",
+            "人员": [
+              {
+                "姓名": "Yun Zhong Jiang Shu",
+                "简介": "Author of The Intelligent Agent Design Guide, Founder of LangGPT Community"
+              }
+            ]
+          },
+          {
+            "标题": "Foreseeing UI - AI Product Interaction Design",
+            "人员": [
+              {
+                "姓名": "Tan Shaoqing",
+                "简介": "Author of AI Helps You Win, poet who isn’t a good entrepreneur if they can't create AI products"
+              }
+            ]
+          },
+          {
+            "标题": "Reshaping Product Workflow with AI",
+            "人员": [
+              {
+                "姓名": "Silver Sea",
+                "简介": "AI Product Manager (Co-builder of the Road to AGI), thinker often on Mars, the Moon, beyond your light-years"
+              }
+            ]
+          },
+          {
+            "标题": "Universal Text-to-Image Prompt Framework - Building a More Efficient AI Communication Mechanism",
+            "人员": [
+              {
+                "姓名": "Yi Ze",
+                "简介": "Prompt engineer, creator unlocking AI's full potential"
+              }
+            ]
+          },
+          {
+            "标题": "Being a Craftsman in the AI Era",
+            "人员": [
+              {
+                "姓名": "Simon",
+                "简介": "AI artist, author of The Palace Cats at Work, the last human designer"
+              }
+            ]
+          },
+          {
+            "标题": "The \"All Walks of Life\" of Intelligent Agent Development - Learning and Gaining Insights in WaytoAGI",
+            "人员": [
+              {
+                "姓名": "Xu Jian",
+                "简介": "Moderator of WaytoAGI agent, lifelong learner \"mixing in the Circle of Excellence, researching the path of relaxation"
+              }
+            ]
+          },
+          {
+            "标题": "Dancing with AI: A Multi-dimensional Collaboration Journey between Humans and Artificial Intelligence",
+            "人员": [
+              {
+                "姓名": "Da Yu",
+                "简介": "AI decision-maker insights curator, WaytoAGI atmosphere group, master of machine humor"
+              }
+            ]
+          },
+          {
+            "标题": "Engineering Practice Experience in Rapid Implementation and Dissemination of AI Techniques",
+            "人员": [
+              {
+                "姓名": "Shichen",
+                "简介": "Latentcat, light and shadow, QR code model training, Golden Prize in Xiaohongshu Independent Development Contest"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Feng Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-16:30",
+        "序号": "",
+        "标题": "Inspiration Explosion: Youth Inspiration Party - Creative Lightning Battle",
+        "召集人": [
+          {
+            "姓名": "San Shou",
+            "简介": "AI Empowerment Practitioner, Continuously Exploring AI's Role in Religion"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Discussing AI Mysticism and Religious Defense Against PUA",
+            "人员": [
+              {
+                "姓名": "San Shou",
+                "简介": "AI Empowerment Practitioner, Continuously Exploring AI's Role in Religion"
+              }
+            ]
+          },
+          {
+            "标题": "Perspectives on Media and Communication from the Creator's Angle",
+            "人员": [
+              {
+                "姓名": "Acony High Energy Diary",
+                "简介": "Social-media Blogger"
+              }
+            ]
+          },
+          {
+            "标题": "Community as a Service",
+            "人员": [
+              {
+                "姓名": "Artist Zhou",
+                "简介": "ABC Labs / 706 Liangzhu Living Room Co-Founder, (Dota Auto Chess National Champion)"
+              }
+            ]
+          },
+          {
+            "标题": "How to Create Healing Products with AI",
+            "人员": [
+              {
+                "姓名": "Wingo",
+                "简介": "AI Hardware Product Manager, 706 Youth Community Volunteer (Little Camel Wants to Go to Mars)"
+              }
+            ]
+          },
+          {
+            "标题": "Exploring Pop-Up Cities and New Digital Nomad Communities",
+            "人员": [
+              {
+                "姓名": "Jiang",
+                "简介": "Full-time Digital Nomad Software Engineer"
+              }
+            ]
+          },
+          {
+            "标题": "What Can Ordinary People Do with AI Programming?",
+            "人员": [
+              {
+                "姓名": "Xiaoshi",
+                "简介": "Lawyer who has tried using AI for legal outreach"
+              }
+            ]
+          },
+          {
+            "标题": "How AI Helps Rejuvenate Those Feeling Stuck or Escaping the Workforce",
+            "人员": [
+              {
+                "姓名": "Euro",
+                "简介": "Podcast Host / Social Innovation Enthusiast"
+              }
+            ]
+          },
+          {
+            "标题": "Imagining AI's Role in DAOs",
+            "人员": [
+              {
+                "姓名": "haipi.eth",
+                "简介": "DAOSquare Chinese Operations"
+              }
+            ]
+          },
+          {
+            "标题": "AI Ethics and Philosophy: Is AI My Second Self or Humanity's Child?",
+            "人员": [
+              {
+                "姓名": "Yuan",
+                "简介": "Content Creator, Photographer"
+              }
+            ]
+          },
+          {
+            "标题": "What Can We Do with MCP?",
+            "人员": [
+              {
+                "姓名": "Rain",
+                "简介": "A \"Jack of All Trades\" Programmer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "16:30-17:30",
+        "序号": "",
+        "标题": "2050 Inspiration Aftermath | We Need a Thought Rewind",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Small Conversations, Big Differences - Deep Dialogue Workshop",
+            "人员": [
+              {
+                "姓名": "Guyue",
+                "简介": "ToP Certified Facilitator, Agile Consultant"
+              },
+              {
+                "姓名": "Zhu",
+                "简介": "ToP Certified Facilitator, Agile Consultant"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Feng Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "9:00-12:30",
+        "序号": "",
+        "标题": "From Anxiety to Control: A Rebel’s Guide to Thriving in the Age of AI",
+        "召集人": [
+          {
+            "姓名": "Wang Bei",
+            "简介": "Co-Builder of WaytoAGI, the mythic red string that ties human destinies"
+          }
+        ],
+        "环节": [
+          {
+            "标题": "Holding Onto Your Core in a World Racing with AI",
+            "人员": [
+              {
+                "姓名": "Yuan Zi",
+                "简介": "WaytoAGI Agent Moderator, "
+              }
+            ]
+          },
+          {
+            "标题": "Hackers and Painters of the AI Age",
+            "人员": [
+              {
+                "姓名": "noodles",
+                "简介": "Founder of Dali’s Hackers & Painters Collective, Engineer, Serial Entrepreneur, and YC Alum"
+              }
+            ]
+          },
+          {
+            "标题": "From Workplace Fossil to AI Trailblazer at 40: Uncle Huang’s Great Leap",
+            "人员": [
+              {
+                "姓名": "Uncle Huang",
+                "简介": "AI Product Manager"
+              }
+            ]
+          },
+          {
+            "标题": "Exploring How to Visualize Altruistic Relationships in Future Cities",
+            "人员": [
+              {
+                "姓名": "Victor",
+                "简介": "Founder of Bingua"
+              }
+            ]
+          },
+          {
+            "标题": "Future Product Mapping: AI Hardware Frontiers and Product Mindsets",
+            "人员": [
+              {
+                "姓名": "wingo",
+                "简介": "AI Hardware Product Manager"
+              }
+            ]
+          },
+          {
+            "标题": "This Is My Ninja Way",
+            "人员": [
+              {
+                "姓名": "Hai Xin",
+                "简介": "AI Artist"
+              }
+            ]
+          },
+          {
+            "标题": "Community as a Service ",
+            "人员": [
+              {
+                "姓名": "Artist Zhou",
+                "简介": "ABC Labs /Co - founder of 706 Liangzhu Living Room, (National Champion of Dota Auto Chess)"
+              }
+            ]
+          },
+          {
+            "标题": "Quit My Job. Now I Code AI for Myself",
+            "人员": [
+              {
+                "姓名": "Gui Gui ",
+                "简介": "Host of the podcast Hardground Hacker, developer of the podcast app Podwise."
+              }
+            ]
+          },
+          {
+            "标题": "Vibe Coding: A New Paradigm for the Age of AI",
+            "人员": [
+              {
+                "姓名": "Jiang",
+                "简介": "Developer of Social Layer, Community Builder"
+              }
+            ]
+          },
+          {
+            "标题": "Visual Models in the Post-4o Era: Bringing Attention Back to Creation Itself",
+            "人员": [
+              {
+                "姓名": "ZHO",
+                "简介": "Founder of ComfyUI "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Feng Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-15:30",
+        "序号": "",
+        "标题": "AI Improvisation: Human Inspiration vs. the Uncharted Laughter Moments from the Silicon-based Imagination",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Zhuang Zhuang",
+                "简介": "Member of WaytoAGI"
+              }
+            ]
+          },
+          {
+            "标题": "AI Improvisation Comedy",
+            "人员": [
+              {
+                "姓名": "Qiu Yechun",
+                "简介": "Cooperation Service Partner of Nao"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Qing Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "9:00-12:00",
+        "序号": "",
+        "标题": "Artificial intelligence makes human exploration of space no longer lonely.",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Chen Gaowei",
+                "简介": "Explorer of Scientific Research Services in Space Computing"
+              }
+            ]
+          },
+          {
+            "标题": "Smart Satellites - Embodied Intelligence Satellite System",
+            "人员": [
+              {
+                "姓名": "Yao Kelu",
+                "简介": "Young Scientist at Zhijiang Laboratory"
+              }
+            ]
+          },
+          {
+            "标题": "Series Report: Can 3D Printing Be Used to Build Spaceships and Space Stations?",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "3D Printing Empowers Aerospace Equipment Manufacturing",
+            "人员": [
+              {
+                "姓名": "Qi Huan",
+                "简介": "Professor at Zhejiang University City Colle"
+              }
+            ]
+          },
+          {
+            "标题": "New AI-based Porous Materials Reconstruct Satellite Design",
+            "人员": [
+              {
+                "姓名": "Ding Chao",
+                "简介": "Young Scientist at Hangzhou Yunqi Institute of Interdisciplinary Technologies"
+              }
+            ]
+          },
+          {
+            "标题": "Finally, Space Travel Is Possible —— Full-stack Intelligent Space Travel",
+            "人员": [
+              {
+                "姓名": "Zhang Kenan",
+                "简介": "Young Scientist at the General Design Department of the 5th Academy of CASC"
+              }
+            ]
+          },
+          {
+            "标题": "Series of Reports:\nImagining Future Space Energy - Controllable Nuclear Fusion",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Space Applications of Controllable Nuclear Fusion",
+            "人员": [
+              {
+                "姓名": "kong Defeng",
+                "简介": "Researcher at the Institute of Energy, Hefei Comprehensive National Science Center."
+              }
+            ]
+          },
+          {
+            "标题": "Fusion Energy × AI: How the Ultimate Combination Will Transform the Future of Humanity",
+            "人员": [
+              {
+                "姓名": "Liu Jian",
+                "简介": "Professor at Shandong University, Dream Chaser of Fusion Intelligence."
+              }
+            ]
+          },
+          {
+            "标题": "Collaboration in One Ten - Millionth of a Second - High - Precision Sub - nanosecond Synchronous Ethernet and Its Applications",
+            "人员": [
+              {
+                "姓名": "Dong Jianmeng",
+                "简介": "Young Scientist at Tsinghua University"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Qing Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-17:30",
+        "序号": "",
+        "标题": "One-click access to the stars, intelligent service for everything",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Wang Fengyu",
+                "简介": "Deputy Director - General of Wenchang International Aerospace City Administration"
+              }
+            ]
+          },
+          {
+            "标题": "The Development and Prospect of China's Civil and Commercial Earth Observation Capabilities",
+            "人员": [
+              {
+                "姓名": "Zhou Qigan",
+                "简介": "Co - initiator of the International General Satellite Data Intelligent Service Plan"
+              }
+            ]
+          },
+          {
+            "标题": "The Technological Progress and Application Exploration of Commercial InSAR Satellites",
+            "人员": [
+              {
+                "姓名": "Yang Feng",
+                "简介": "Founder and CEO of Spacety Chin"
+              }
+            ]
+          },
+          {
+            "标题": "The Application of Artificial Intelligence in Aerosol Remote Sensing",
+            "人员": [
+              {
+                "姓名": "Li Zhengqiang",
+                "简介": "Chairman of the International Society for Remote Sensing of the Atmospheric Environment"
+              }
+            ]
+          },
+          {
+            "标题": "New Paths of Industrial Innovation Driven by Satellite Data Fusion and Models",
+            "人员": [
+              {
+                "姓名": "Li Zeqing",
+                "简介": "Minister of the Application Promotion Department of the International Cooperation Center for Satellite Data and Application of the China National Space Administration"
+              }
+            ]
+          },
+          {
+            "标题": "The Exploration and Practice of Remote Sensing AI4S in the Era of Large Language Models",
+            "人员": [
+              {
+                "姓名": "Zhao Long",
+                "简介": "Minister of the Technical Development Department of the National Earth Observation Science Data Center"
+              }
+            ]
+          },
+          {
+            "标题": "The Exploration of Practical Paths for Open Science in Space Computing",
+            "人员": [
+              {
+                "姓名": "Li Chao",
+                "简介": "Deputy Director of the Space - based Computing System Research Center of Zhijiang Lab"
+              }
+            ]
+          },
+          {
+            "标题": "Round Table Discussion",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Qing Yun Hall",
+    "时间段": "27th ",
+    "活动": [
+      {
+        "时间": "9:00-15:00",
+        "序号": "",
+        "标题": "Imagining Commercial Spaceflight: From 2025 to 2050",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Dou Mingming",
+                "简介": "Chairman of Zhong Shang Fund"
+              }
+            ]
+          },
+          {
+            "标题": "Opening Speech",
+            "人员": [
+              {
+                "姓名": "Zhao Zhifeng",
+                "简介": "Chief Engineer of Zhijiang Lab"
+              },
+              {
+                "姓名": "Dou Mingming",
+                "简介": "Chairman of Zhong Shang Fund"
+              }
+            ]
+          },
+          {
+            "标题": "Trends and Listing Paths in the Commercial Space Industry",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": "Chief of Aerospace and Military Industry at CITIC Securities"
+              }
+            ]
+          },
+          {
+            "标题": "Spatio - temporal Data Applications - The Future Is Here and More Is Coming",
+            "人员": [
+              {
+                "姓名": "Xi Xiaofei",
+                "简介": "Founder and Chairman of Skysight"
+              }
+            ]
+          },
+          {
+            "标题": "Discussion on Satellite Design and Production Technologies Based on Batch Requirements",
+            "人员": [
+              {
+                "姓名": "Ding Qiangqiang",
+                "简介": "Chairman of MGC Sat"
+              }
+            ]
+          },
+          {
+            "标题": "High - Performance and High - Thrust Liquid Rocket Engine",
+            "人员": [
+              {
+                "姓名": "Zhang Chenxing",
+                "简介": "Co-founder of Xi'an Juqing"
+              }
+            ]
+          },
+          {
+            "标题": "Commercial Layout and Industry Applications of Hyperspectral Remote - sensing Constellations",
+            "人员": [
+              {
+                "姓名": "Qin Jing",
+                "简介": "Chairman of Xiopm SPACE"
+              }
+            ]
+          },
+          {
+            "标题": "Development Trends and Thoughts on Satellite Communication Microwave Technology",
+            "人员": [
+              {
+                "姓名": "He Qun",
+                "简介": "Founder and General Manager of Jingji Teck"
+              }
+            ]
+          },
+          {
+            "标题": "Space Traffic Management",
+            "人员": [
+              {
+                "姓名": "Wang Hongxia",
+                "简介": "Chairman of At Moto "
+              }
+            ]
+          },
+          {
+            "标题": "Space Data Assets",
+            "人员": [
+              {
+                "姓名": "Kang Ruiqing",
+                "简介": "Chairman of Creat Union"
+              }
+            ]
+          },
+          {
+            "标题": "Roundtable: How to Narrow the Gap between Commercial Scenarios, Satellite Manufacturing and Data Applications?",
+            "人员": [
+              {
+                "姓名": "Hu Gefeng",
+                "简介": "Chairman of Shenzhen Aerospace Dongfanghong Satellite"
+              },
+              {
+                "姓名": "Zuo Chao",
+                "简介": "General Manager of the Aerospace and Military Industry Investment Department of Shenzhen High-tech Investment Group"
+              },
+              {
+                "姓名": "Cang Jirong",
+                "简介": "CEO of Star Detect"
+              },
+              {
+                "姓名": "Miao Xin",
+                "简介": "Marketing Director of Edrive Space"
+              }
+            ]
+          },
+          {
+            "标题": "Interaction and Communication",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "\"One Star\" - Original IP of Space - science - and - technology - themed Cultural Tourism and Its Application Practice",
+            "人员": [
+              {
+                "姓名": "Li Jiaoxiao",
+                "简介": "Partner of \"One Star\""
+              }
+            ]
+          },
+          {
+            "标题": "Encountering Space Culture through \"Internet Celebrities\"",
+            "人员": [
+              {
+                "姓名": "Wang Wei",
+                "简介": "Chairman of China Keni "
+              },
+              {
+                "姓名": "Liu Yan",
+                "简介": "GM of Keni"
+              }
+            ]
+          },
+          {
+            "标题": "Telling Chinese Stories Well with Mortise - and - Tenon Joints, and Creating Better Intangible Cultural Heritage of China with Space Culture",
+            "人员": [
+              {
+                "姓名": "Sun Yuqian",
+                "简介": "Founder of Qiao He"
+              }
+            ]
+          },
+          {
+            "标题": "Free Talk",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Hao Yun Hall",
+    "时间段": "26th",
+    "活动": [
+      {
+        "时间": "全天",
+        "序号": "",
+        "标题": "Seminar on Scientific Models of High - Energy Particle Astrophysics",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Bai Yunxiang",
+                "简介": "Senior Engineer at the Institute of High Energy Physics, Chinese Academy of Sciences, and General Director of the LHAASO Digitalization and Intelligentization Transformation Project."
+              }
+            ]
+          },
+          {
+            "标题": "WCDA background rejection and KM2A cosmic ray composition identification based on ParticleNet",
+            "人员": [
+              {
+                "姓名": "Zhang Xiaopeng",
+                "简介": "Assistant Researcher at the Institute of High Energy Physics, Chinese Academy of Sciences."
+              }
+            ]
+          },
+          {
+            "标题": "Gamma-ray identification and cosmic-ray background rejection for LHAASO - KM2A based on graph neural networks",
+            "人员": [
+              {
+                "姓名": "Lv Hongkui",
+                "简介": "Associate Research Fellow at the Institute of High Energy Physics, Chinese Academy of Sciences."
+              }
+            ]
+          },
+          {
+            "标题": "Research on Background Rejection of LHAASO - WCDA Based on ParticleNet",
+            "人员": [
+              {
+                "姓名": "Hu Shicong",
+                "简介": "Postdoctoral researcher at the Institute of High Energy Physics, Chinese Academy of Sciences."
+              }
+            ]
+          },
+          {
+            "标题": "LAI-based classification in the LHAASO experiment",
+            "人员": [
+              {
+                "姓名": "Xu Chenyuan",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "The architecture of the AstroOne ",
+            "人员": [
+              {
+                "姓名": "Chen Huaxi",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "And More",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor De Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-11:30",
+        "序号": "",
+        "标题": "AI+ Imaginations: Young People Unite to Change the World with AI",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zhao Xinglun",
+                "简介": "Secretary - General of Hangzhou Artificial Intelligence Society / A tech worker engaged in multi - concurrent and super - frequency - multiplication technology"
+              }
+            ]
+          },
+          {
+            "标题": "Opening: Performance of the traditional opera The Peony Pavilion.",
+            "人员": [
+              {
+                "姓名": "Zhang Kewei",
+                "简介": "Host of \"New Voice of Peony\" / An opera enthusiast with the help of AI"
+              }
+            ]
+          },
+          {
+            "标题": "The Out-of-Control Tower of Babel? When AI Begins to Reconstruct the World with Human Languages",
+            "人员": [
+              {
+                "姓名": "Wang Jinpeng",
+                "简介": "Doctor of Qianzhen Technology Co., Ltd.\nCreating an AI Utopia: A Preacher's Journey of Self-exploration"
+              }
+            ]
+          },
+          {
+            "标题": "From Student to Teacher: My Decade with AI",
+            "人员": [
+              {
+                "姓名": "Wang Yaqi",
+                "简介": "Doctor from Zhejiang University of Media and Communications, Deputy Secretary - General of Hangzhou Artificial Intelligence Society, Teacher at Zhejiang University of Media and Communications: A teacher who engages in medical AI in the field of media."
+              }
+            ]
+          },
+          {
+            "标题": "From Image Analysis to Efficacy Prediction: The Technological Loop of Medical AI",
+            "人员": [
+              {
+                "姓名": "Yue Changpeng",
+                "简介": "Doctor from Hangzhou Dianzi University, a Ph.D. candidate in IMIP AI - medicine at Hangzhou Dianzi University "
+              }
+            ]
+          },
+          {
+            "标题": "When AI Learns to Be \"Rebellious\": A Real Record of the Game between a Developer and an Intelligent Agent",
+            "人员": [
+              {
+                "姓名": "Shen Zhexiang",
+                "简介": "Founder of Hengwei Information, Deputy Secretary - General of Hangzhou Intelligent Society"
+              }
+            ]
+          },
+          {
+            "标题": "Integration of \"Three - Learning\": Pooling Young AI Talents",
+            "人员": [
+              {
+                "姓名": "Zhao Xinglun",
+                "简介": "Secretary - General of Hangzhou Artificial Intelligence Society / A tech worker engaged in multi - concurrent and super - frequency - multiplication technology"
+              }
+            ]
+          },
+          {
+            "标题": "Unbounded Intelligent Manufacturing: Breaking Through the Last Mile of Edge-side AI",
+            "人员": [
+              {
+                "姓名": "Wen Jiajing",
+                "简介": "Co Founder of Megaway Tech"
+              }
+            ]
+          },
+          {
+            "标题": "AI × Drones: The Eyes That Enable Machines to See the Future",
+            "人员": [
+              {
+                "姓名": "Yang Jiawei",
+                "简介": "UAV (Unmanned Aerial Vehicle) Product Manager, Appraiser and Lecturer of the Ministry of Human Resources and Social Security"
+              }
+            ]
+          },
+          {
+            "标题": "Botching the Experiment: The Growth Journey of a Smart Hardware Engineer",
+            "人员": [
+              {
+                "姓名": "Zhou Jiahao",
+                "简介": "Engineer"
+              },
+              {
+                "姓名": "Zhang Longlong",
+                "简介": "A hardware engineer who can't write code is not a good geek"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:30-12:30",
+        "序号": "",
+        "标题": "Exploration of Healthcare in the AI Era",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Song Lili",
+                "简介": "Bywin UED Department Head"
+              }
+            ]
+          },
+          {
+            "标题": "The Trustworthy Circulation of High - Quality Medical Data Promotes Intelligent Healthcare",
+            "人员": [
+              {
+                "姓名": "Huang HE",
+                "简介": "Assistant of Bywin President"
+              }
+            ]
+          },
+          {
+            "标题": "Pet AI + Healthcare",
+            "人员": [
+              {
+                "姓名": "Xia Guoyue",
+                "简介": "Founder of Maolaolao Pet Healthcare"
+              }
+            ]
+          },
+          {
+            "标题": "The Intelligent Transformation of the Doctor-Patient Platform in the AI Era",
+            "人员": [
+              {
+                "姓名": "wei juanming",
+                "简介": "Bywin Senior Designer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor De Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-14:00",
+        "序号": "",
+        "标题": "A social reasoning game that uses technology to revive the golden age of face-to-face interaction.",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "jian zhen",
+                "简介": "Script Supervisor & Game Planner"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "the 13th Month",
+                "简介": "A Career Planning Consultant for the Gaming Industry"
+              }
+            ]
+          },
+          {
+            "标题": "Reconstruct the meaning of gathering in the intelligent era through game",
+            "人员": [
+              {
+                "姓名": "the 13th Month",
+                "简介": "A Career Planning Consultant for the Gaming Industry"
+              }
+            ]
+          },
+          {
+            "标题": "Using Games as a Method —— A Documentary of a Ten-Person Group Game",
+            "人员": [
+              {
+                "姓名": "san bai",
+                "简介": "I'm creating a game in which it seems that the world is destroyed, but in fact, it allows you to start anew."
+              }
+            ]
+          },
+          {
+            "标题": "Games are a way of exploration and discovery.",
+            "人员": [
+              {
+                "姓名": "wu dao",
+                "简介": "Companions on the Other Side of the Island"
+              }
+            ]
+          },
+          {
+            "标题": "A Game of Strategy: An Experiment on the Exploration of Human Nature by the Joker",
+            "人员": [
+              {
+                "姓名": "xiao hei",
+                "简介": "founder of JokerGame"
+              },
+              {
+                "姓名": "Han Zijun",
+                "简介": "An ENTJ who has climbed Mount Qomolangma, dived into the ocean's depths, and explores the world and self through extreme sports."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:00-15:00",
+        "序号": "",
+        "标题": "Kendal Mountain Festival Screening",
+        "召集人": [],
+        "环节": []
+      },
+      {
+        "时间": "15:00-17:00",
+        "序号": "",
+        "标题": "Watching Blockbusters with a Brain-Computer Interface • Encountering Young Science Fiction Directors",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zeng Yuanming/Leo",
+                "简介": "The Flow Hacker Who Masters AI / Brain and Potential Laboratory • Alpha Flow Club"
+              }
+            ]
+          },
+          {
+            "标题": "Watching Blockbusters with a Brain-Computer Interface • Encountering Young Science Fiction Directors",
+            "人员": [
+              {
+                "姓名": "Ya Wen/Terrence/Zhi Hao/Zhi Rong/TT",
+                "简介": "Teenagers aged 13 - 19, science - fiction movies created from scratch."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "17:00-18:00",
+        "序号": "",
+        "标题": "BGM:  \"To Myself in 2050\"",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zeng Yuanming/Leo",
+                "简介": "The Flow Hacker Who Masters AI / Brain and Potential Laboratory • Alpha Flow Club"
+              },
+              {
+                "姓名": "Da Qu 、Amy、Martin、Tong Tong ",
+                "简介": "Entrepreneurs who embraces AI at an advanced age"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor De Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "10:00-10:30",
+        "序号": "",
+        "标题": "Intertwining of the Real and the Virtual: The Transdimensional Roaming of Cyborgs",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yang Shuhui",
+                "简介": "Doctor of Communication Studies, University Teacher, Visual Artist"
+              }
+            ]
+          },
+          {
+            "标题": "From \"One Hundred Years of Solitude\" to \"The Sphinx\"",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:30-11:00",
+        "序号": "",
+        "标题": "Every one is a cross-media geeky ",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yi Nuo",
+                "简介": "Founder of Curiousness"
+              }
+            ]
+          },
+          {
+            "标题": "Jam with Thing",
+            "人员": [
+              {
+                "姓名": "Robin",
+                "简介": "Founder of Digishow"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "Unveil a New Chapter of Human-Machine Collaboration in Asia's New Creative Era",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Gerinna Wang，Zhang Junzhe",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "The World's First Agentic AI - Creative Ecosystem",
+            "人员": [
+              {
+                "姓名": "Gerinna Wang",
+                "简介": "Founder of Yuan Yu，Winners of the First - Ever GAIA Science and Technology Innovation Award"
+              }
+            ]
+          },
+          {
+            "标题": "Embracing the Open Ecosystem - Generative Artificial Intelligence from the Perspective of the Integration of Industry, Education and Research",
+            "人员": [
+              {
+                "姓名": "Zhang Junzhe",
+                "简介": "A teacher at the China Academy of Art and a co - founder of the Asia Design Week."
+              }
+            ]
+          },
+          {
+            "标题": "The Game between Reality and Fiction - Future Narratives and the Crisis of Trust in the Era of AIGC",
+            "人员": [
+              {
+                "姓名": "Yang Ke",
+                "简介": "Director of the Undergraduate Teaching and Research Section of Product Design, EDNA Joint Institute, China Academy of Art"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor De Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "12:00 - 15:30",
+        "序号": "",
+        "标题": "Her Forum: Life Awakening and Mission Creation",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Chen Ling",
+                "简介": "A volunteer since the First @050,Founder of Guangchisel Island. "
+              }
+            ]
+          },
+          {
+            "标题": "Meditation",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "TED Talk",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Be the master of your own life ",
+            "人员": [
+              {
+                "姓名": "Chen Ling",
+                "简介": "A volunteer since the First @050,Founder of Guangchisel Island. "
+              }
+            ]
+          },
+          {
+            "标题": "After traveling to 93 countries, I established an aesthetic hotel to embody my dreams.",
+            "人员": [
+              {
+                "姓名": "Jessie",
+                "简介": "Founder of Garden Villa Collection"
+              }
+            ]
+          },
+          {
+            "标题": "Breaking free from the constraints of being a programmer, I found the thing I'm passionate about in life.",
+            "人员": [
+              {
+                "姓名": "Wang Lihua",
+                "简介": "From a programmer to a travel photographer."
+              }
+            ]
+          },
+          {
+            "标题": "How AI can help individuals in their life journey to become a better version of themselves.",
+            "人员": [
+              {
+                "姓名": "Yue Liang",
+                "简介": "Institue of Industrial Innovation, SJTU"
+              }
+            ]
+          },
+          {
+            "标题": "The Inner Peace and the External Community Entrepreneurship",
+            "人员": [
+              {
+                "姓名": "Hai Chao",
+                "简介": "The initiator of Sanshenggu Ecovillage"
+              }
+            ]
+          },
+          {
+            "标题": "Up the mountian and down the water: the insights of life",
+            "人员": [
+              {
+                "姓名": "Han Zijun",
+                "简介": "An ENTJ who has climbed Mount Qomolangma, dived into the ocean's depths, and explores the world and self through extreme sports."
+              }
+            ]
+          },
+          {
+            "标题": "Push open the door of life",
+            "人员": [
+              {
+                "姓名": "He Weiping",
+                "简介": "A writer, a local culture promoter who has become even busier after retirement."
+              }
+            ]
+          },
+          {
+            "标题": "Running homestays",
+            "人员": [
+              {
+                "姓名": "Qiao Mai Bao",
+                "简介": "A media dropout turned successful owner of two delightful homestays"
+              }
+            ]
+          },
+          {
+            "标题": "Life is an encounter with what you love.",
+            "人员": [
+              {
+                "姓名": "Shen Xiaobing",
+                "简介": "Plant Stylist, Professor at the American Floral Art Academy"
+              }
+            ]
+          },
+          {
+            "标题": "Let's have a chat about the life, the mission, AI, and the future.",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Wei Yun Hall\n\n\n\n\n\n\n\n\n\n\n\n",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-10:00",
+        "序号": "",
+        "标题": "Insights on Art - Driven Rural Revitalization",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Kewei",
+                "简介": "Professional Manager of Qing Shan"
+              }
+            ]
+          },
+          {
+            "标题": " Policies and Rural Areas",
+            "人员": [
+              {
+                "姓名": "Yu Zhouyang",
+                "简介": "Member of the Party Committee of Huanghu Town, Hangzhou City"
+              }
+            ]
+          },
+          {
+            "标题": "Experience in Water Source Protection and Community Co-governance",
+            "人员": [
+              {
+                "姓名": "Zhang Haijiang",
+                "简介": "Qing Shan Operation Adviser"
+              }
+            ]
+          },
+          {
+            "标题": "Art Empowers the Countryside, and the Countryside Nourishes Art",
+            "人员": [
+              {
+                "姓名": "zhang Lei",
+                "简介": "Founder of Rong Library"
+              }
+            ]
+          },
+          {
+            "标题": "From the Blueprint of Daxi to  the Future of Huanghu",
+            "人员": [
+              {
+                "姓名": "wang qunli",
+                "简介": "Founder of City Secretes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:00-11:00",
+        "序号": "",
+        "标题": "Documentary Premiere & Director’s Sharing Session ",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Shen Qiu",
+                "简介": "Biodiversity Conservation Worker, Otter Caretaker"
+              }
+            ]
+          },
+          {
+            "标题": "The Reappearance of Otters in Zhejiang: What Can We Do to Protect Endangered Species?",
+            "人员": [
+              {
+                "姓名": "Shen Qiu",
+                "简介": "Biodiversity Conservation Worker, Otter Caretaker"
+              }
+            ]
+          },
+          {
+            "标题": "Screening ：Jintang Otters",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Director's Notes: Protecting It with the Power of Images ",
+            "人员": [
+              {
+                "姓名": "Wu Pei",
+                "简介": "Wild Nature Documentary Director, Up Loader"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "Yungu: A Testing Ground Where Children may Solve Real World Problems",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Qian Hanxuan",
+                "简介": "An art and design teacher at Yungu / A space designer who loves kickboxing."
+              }
+            ]
+          },
+          {
+            "标题": "Wulian Xiyuan Community Project",
+            "人员": [
+              {
+                "姓名": "The Crayfish Club in Senior High School",
+                "简介": "The Social Practice Club of Art and Design "
+              }
+            ]
+          },
+          {
+            "标题": "Capstone——The Genesis of Shaping the World",
+            "人员": [
+              {
+                "姓名": "Grade 11 students",
+                "简介": " Capstoneis a compulsory course in Yungu "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Wei Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-14:00",
+        "序号": "",
+        "标题": "General Discussion of Hangzhou: Experimental Report by the Youth from Hang Zhou City University",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yao Yao",
+                "简介": "City Brain Institute of Hang Zhou City University"
+              }
+            ]
+          },
+          {
+            "标题": "Hangzhou from the Perspective of Systems Science",
+            "人员": [
+              {
+                "姓名": "Yu Jie",
+                "简介": "Head of General Discussion of Hangzhou"
+              }
+            ]
+          },
+          {
+            "标题": "General Discussion of Hangzhou",
+            "人员": [
+              {
+                "姓名": "Yao Yao",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "The Report by the Youth of Hang Zhou City University",
+            "人员": [
+              {
+                "姓名": "Wang Jiawei, Zeng Xinyue, Lei Binkun , Zhou Yusheng",
+                "简介": "Students of General Discussion of Hangzhou"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:00-15:00",
+        "序号": "",
+        "标题": "The Experiment：  Nature Mingles Technology",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Kewei",
+                "简介": "Professional Manager of Qing Shan"
+              }
+            ]
+          },
+          {
+            "标题": "Smart Factory Empowers Rural Revitalization",
+            "人员": [
+              {
+                "姓名": "Lei Lina",
+                "简介": "Innovator in Agriculture, Member of the China Democratic League, Partner of Puguang Agriculture"
+              }
+            ]
+          },
+          {
+            "标题": "Qing Shan Smart House: Creating a Model of Zero-Carbon Smart Farmhouse in China",
+            "人员": [
+              {
+                "姓名": "Representative of the Low-carbon House Project of Zhejiang University",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Future Village: The Role of Nature-based Solutions (NbS) in Rural Sustainable Development",
+            "人员": [
+              {
+                "姓名": "Liu Qieyi",
+                "简介": "Nature lover"
+              }
+            ]
+          },
+          {
+            "标题": "Empowering the Ecology with Digital Technologies",
+            "人员": [
+              {
+                "姓名": "Alibaba Foundation",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:00-16:00",
+        "序号": "",
+        "标题": "AI Meets Culture and Tourism",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zhou Wei",
+                "简介": "Director of the Tourism Economy Laboratory of the Hangzhou Municipal Bureau of Culture, Radio, TV and Tourism"
+              }
+            ]
+          },
+          {
+            "标题": "From Big Data to Big Models: The Exploration and Practice of Digital Culture and Tourism in Hangzhou",
+            "人员": [
+              {
+                "姓名": "Zhou Wei",
+                "简介": "Director of the Tourism Economy Laboratory of the Hangzhou Municipal Bureau of Culture, Radio, TV and Tourism"
+              }
+            ]
+          },
+          {
+            "标题": " Marketing of Tourism in the AI Era",
+            "人员": [
+              {
+                "姓名": "Li Yang",
+                "简介": "CEO of cnbztrip,and one of the 30 Under 30 by Forbes"
+              }
+            ]
+          },
+          {
+            "标题": "Construction of Cultural Digital Assets",
+            "人员": [
+              {
+                "姓名": "Zhang Feng",
+                "简介": "The Secretary - General of the Digital Culture - Tourism Industry Alliance of Hangzhou, the Vice - President of the Municipal Tourism Association, and the Executive Vice - President of the Provincial Digital Economy Society."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "16:00-17:00",
+        "序号": "",
+        "标题": "Smart Communitying",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "wang xinran",
+                "简介": "Student majoring in Economic Crime Investigation at Zhejiang Police College"
+              }
+            ]
+          },
+          {
+            "标题": "Distracted Driving - Identification of Driving Safety Risks and Targeted Education",
+            "人员": [
+              {
+                "姓名": "Ping Keyi",
+                "简介": "A distinguished graduate from Zhejiang Police College, who has been awarded the National Scholarship and is a visiting student at Tsinghua University."
+              }
+            ]
+          },
+          {
+            "标题": "Insightful Recognition of Commands: A Traffic Command Decoder for Autonomous Driving",
+            "人员": [
+              {
+                "姓名": "Ji Kangzheng",
+                "简介": "A police cadet of the new era who studies computer "
+              }
+            ]
+          },
+          {
+            "标题": "Legal Domain Intelligence Insight: From Data to Decision ",
+            "人员": [
+              {
+                "姓名": "Ding Feifan",
+                "简介": "Founder of the \"Legal Domain Intelligence Insight\" Team. Solving cases with code and exploring the world with innovative ideas."
+              }
+            ]
+          },
+          {
+            "标题": "With peace and security, we  journey far into the future.",
+            "人员": [
+              {
+                "姓名": "Dai Siyi",
+                "简介": "Member of the \"Peace in the Fields\" Association"
+              }
+            ]
+          },
+          {
+            "标题": "Introducing the Fengqiao Experience into Schools",
+            "人员": [
+              {
+                "姓名": "Ying Yufan",
+                "简介": "A police cadet dedicated to maintaining social stability."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "17:00-18:00",
+        "序号": "",
+        "标题": "Knowledge Co-creation and Connection Empowerment in the Digital Age",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Da Cao",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Open-source Learning Ecology: Knowledge Co-creation and Talent Cultivation in the AI Era",
+            "人员": [
+              {
+                "姓名": "Amy",
+                "简介": "Datawhale, Head of Teaching and Research"
+              }
+            ]
+          },
+          {
+            "标题": "Interdisciplinary Exploration: The Emergence of Knowledge Communities and the Catalysis of Innovation",
+            "人员": [
+              {
+                "姓名": "Su Chenyu ",
+                "简介": "Graduate student majoring in Educational Technology at Jiangnan University"
+              }
+            ]
+          },
+          {
+            "标题": "Digital Nomad Community: A Co-creation System like a Tropical Rainforest",
+            "人员": [
+              {
+                "姓名": "Da Cao",
+                "简介": "NCC Community Founder & Manager"
+              },
+              {
+                "姓名": "Zhou Mo",
+                "简介": "Project Manager of the \"Panoramic Digital Nomad Report\", Coordinator of the Digital Nomad Conference, Core Builder of the Chinese-speaking Web3/Youth Influence Community"
+              }
+            ]
+          },
+          {
+            "标题": "Reorganizing Creativity: Communities as Production Units and Enlightenment Schools",
+            "人员": [
+              {
+                "姓名": "Lee",
+                "简介": "Co-initiator of Qspace & Cohere Community, Co-founder of Dweller Cohousing Community, Operation Member of 706 Shanghai"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Wei Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "09:00-11:30",
+        "序号": "",
+        "标题": "Together, Be Yourself —— Entrepreneurship in Youth Communities Makes the Earth Sustainable!",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Haichao",
+                "简介": "The initiator of Sanshenggu Ecovillage"
+              }
+            ]
+          },
+          {
+            "标题": "The Growth Story of Youth Ecological Communities",
+            "人员": [
+              {
+                "姓名": "Xu Zhenxue",
+                "简介": "CEO of Sanshenggu"
+              }
+            ]
+          },
+          {
+            "标题": "Survival Guide for Urban Sustainable Stores",
+            "人员": [
+              {
+                "姓名": "Manager of CHIMIDO Jiangnan",
+                "简介": ""
+              },
+              {
+                "姓名": "Xiao Shan Coffee",
+                "简介": ""
+              },
+              {
+                "姓名": "Chong Ming Dao",
+                "简介": "Manager of Urban Store"
+              }
+            ]
+          },
+          {
+            "标题": "International Ecological Study Tour",
+            "人员": [
+              {
+                "姓名": "Xu Zhenxue",
+                "简介": "Manager of the Ecological Community Camp, CEO of the Education Sector of Sanshenggu"
+              }
+            ]
+          },
+          {
+            "标题": "Sustainable Living Laboratory",
+            "人员": [
+              {
+                "姓名": "xiao Yan",
+                "简介": "Manager of Sanshenggu, Initiator of the Mindfulness Weekend Camp, Manager of Plant Dyeing and Traditional Costumes"
+              }
+            ]
+          },
+          {
+            "标题": " Sustainable Stores",
+            "人员": [
+              {
+                "姓名": "Chen Minghui",
+                "简介": "Yoga teacher, Singing Bowl Therapist, Senior Health Manager"
+              }
+            ]
+          },
+          {
+            "标题": "Magic Classes of Natural ",
+            "人员": [
+              {
+                "姓名": "Qiu Ling",
+                "简介": "Principal of Sanshenggu, Practitioner of Mindfulness，Explorer of \"Living a Good Life\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:30-12:15",
+        "序号": "",
+        "标题": "Yimu Nature · Observe a Tree",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Xiao Wan Zi",
+                "简介": "Founder of Yimu Nature"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yi Zi",
+                "简介": "A nature enthusiast, a member of the Botanical Society of Zhejiang Province, and a member of the Quzhou Wildlife Conservation Association."
+              }
+            ]
+          },
+          {
+            "标题": "Practical Exploration of Family Nature Education in the AI Era",
+            "人员": [
+              {
+                "姓名": "Zhou Caiying",
+                "简介": "A junior high school science teacher with more than twenty years of teaching experience, and a nature enthusiast."
+              }
+            ]
+          },
+          {
+            "标题": "We, the \"tree companions\"",
+            "人员": [
+              {
+                "姓名": "Xiao Wan Zi",
+                "简介": "A nature enthusiast, one of the founders of Yimu Nature, and the initiator of the activity \"A Group of People Observe One Tree for a Year\"."
+              }
+            ]
+          },
+          {
+            "标题": "Nature Connects You and Me",
+            "人员": [
+              {
+                "姓名": "Deng Lingli",
+                "简介": "Assistant Researcher for Science Popularization, Natural Education Consultant"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Third Floor Wei Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-15:15",
+        "序号": "",
+        "标题": "Entrepreneurs in Hangzhou， half a century’s stories",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Shen Jihui",
+                "简介": "A recorder of Hangzhou's entrepreneurial ecosystem for 10 years. "
+              }
+            ]
+          },
+          {
+            "标题": "AI for Big Fashion Brands",
+            "人员": [
+              {
+                "姓名": "Liu Chen",
+                "简介": "Founder and CEO of Style3D "
+              }
+            ]
+          },
+          {
+            "标题": "After leaving the hospital, I became an illustrator.",
+            "人员": [
+              {
+                "姓名": "Zhou Shuchang",
+                "简介": "Founder of Immed"
+              }
+            ]
+          },
+          {
+            "标题": "Lung transplantation surgery can be different",
+            "人员": [
+              {
+                "姓名": "Zhao Jin",
+                "简介": "A post - 90s doctor and one of the world's best at performing lung transplants on mice."
+              }
+            ]
+          },
+          {
+            "标题": "As a freshman, I went to work for a drone company.",
+            "人员": [
+              {
+                "姓名": "Jiang Zhenghao",
+                "简介": "Founder of Zhongsun Technology"
+              }
+            ]
+          },
+          {
+            "标题": "Me and My AI Intelligent Agent",
+            "人员": [
+              {
+                "姓名": "Lv Sitong",
+                "简介": "A 12 years old"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Second Floor Wu Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "9:00-11:00",
+        "序号": "",
+        "标题": "2050 learning together| AI for Science",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Want Ting",
+                "简介": "Head of swarma club"
+              }
+            ]
+          },
+          {
+            "标题": "The Game of Cell Cultivator in the Metaverse",
+            "人员": [
+              {
+                "姓名": "Guo Tiannan",
+                "简介": "Researcher of Westlake University"
+              }
+            ]
+          },
+          {
+            "标题": "Guide to Navigating the Human Protein Universe",
+            "人员": [
+              {
+                "姓名": "Chang Cheng",
+                "简介": "Associate Researcher of the National Center for Protein Sciences (Beijing)"
+              }
+            ]
+          },
+          {
+            "标题": "Mending the Sky and Creating Humans: Nuwa AI Reconstructs the Cognition of Life Sciences",
+            "人员": [
+              {
+                "姓名": "Guo Xing",
+                "简介": "Shanghai Academy of Al for Science,SAIS"
+              }
+            ]
+          },
+          {
+            "标题": "From 1 + 1 to ∞: How Far Can the Mathematical Imagination of Large Language Models Go?",
+            "人员": [
+              {
+                "姓名": "Chen Xiaoyang",
+                "简介": "Tenured Associate Professor at Tongji University"
+              }
+            ]
+          },
+          {
+            "标题": "Molecular Alchemy: The AI - Driven Revolution in Materials Science",
+            "人员": [
+              {
+                "姓名": "Zhang Shuming",
+                "简介": "Co Founder of Deep Principle"
+              }
+            ]
+          },
+          {
+            "标题": "Scientific Agents: From Data - Driven to Cognitive Emergence",
+            "人员": [
+              {
+                "姓名": "Liu Zhiyi",
+                "简介": "Researcher of Qingyuan Research Institute of Shanghai Jiao Tong University and Consultant of the Center for Collective Intelligence Science Research"
+              }
+            ]
+          },
+          {
+            "标题": "Radical Theories of Large Language Models: Examining the Myths and Realities from the Perspective of RWKV",
+            "人员": [
+              {
+                "姓名": "Luo Xuan",
+                "简介": "Co Founder of RWKVOS"
+              }
+            ]
+          },
+          {
+            "标题": "AI X SCIENCE：Ten Frontier Observations",
+            "人员": [
+              {
+                "姓名": "Yang Yanqing",
+                "简介": "Chief Strategy Officer of SAIS"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "AI+ Youth Entrepreneurship Forum: From 0 to 1, AI to \"Aspire\" to Create the Future",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Lu Peiyi",
+                "简介": "Institue of Industrial Innovation, SJTU"
+              }
+            ]
+          },
+          {
+            "标题": "Industry Innovation and Incubation in the AI Era",
+            "人员": [
+              {
+                "姓名": "Wang Jialiang",
+                "简介": "Executive Dean of the Institute of Industrial Innovation, SJTU."
+              }
+            ]
+          },
+          {
+            "标题": "A Little Sharing for Young Entrepreneurs",
+            "人员": [
+              {
+                "姓名": "Liu Yuan",
+                "简介": "Partner of ZhenFund"
+              }
+            ]
+          },
+          {
+            "标题": "When Generation Z Meets AI: Redefining the Possibilities of Entrepreneurship",
+            "人员": [
+              {
+                "姓名": "Sachiko",
+                "简介": "Deputy Director of Innoxsz Marketing Department"
+              }
+            ]
+          },
+          {
+            "标题": "How to Make Hard Technology Both \"Hard-core\" and \"Sexy\" in the AI Era?",
+            "人员": [
+              {
+                "姓名": "Zeren Jiangzeng",
+                "简介": "Head of Investment, CQIIP"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Second Floor Wu Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "12:00-13:30",
+        "序号": "",
+        "标题": "AI + Learning: Learning in the AI Era",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Fang Ke",
+                "简介": "Lecturer of Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          },
+          {
+            "标题": "AI + Learning: Learning in the AI Era",
+            "人员": [
+              {
+                "姓名": "Fang Ke",
+                "简介": "Lecturer of Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          },
+          {
+            "标题": "New Learning Concept for the AI Era: Connectivism",
+            "人员": [
+              {
+                "姓名": "Wang Zhijun",
+                "简介": "Professor of Jiangnan University"
+              }
+            ]
+          },
+          {
+            "标题": "Collective Learning in the Intelligent Era",
+            "人员": [
+              {
+                "姓名": "Lu Yao",
+                "简介": "Associate Professor of the National University of Defense Technology"
+              }
+            ]
+          },
+          {
+            "标题": "Learning AI vs. Using AI",
+            "人员": [
+              {
+                "姓名": "Zheng Pei",
+                "简介": "Head of Marketing of Zhejiang University Mo Platform"
+              }
+            ]
+          },
+          {
+            "标题": "Learning in the AI （part two)",
+            "人员": [
+              {
+                "姓名": "Fang Ke",
+                "简介": "Lecturer of Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          },
+          {
+            "标题": "From the Aspiration to Practice: The Datawhale Open Source Community Lights up the AI Classes in Primary and Secondary Schools",
+            "人员": [
+              {
+                "姓名": "Li Yuqi",
+                "简介": "member of Datawhale"
+              }
+            ]
+          },
+          {
+            "标题": "The First Principles of Learning - Those Unchanging \"Hard Strengths\"",
+            "人员": [
+              {
+                "姓名": "Bian Sikang",
+                "简介": "Director of Open Source Technology Growth Business at Ant Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "13:30-14:10",
+        "序号": "",
+        "标题": "学习节|AI+X College&University Forum",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Fan Jingjing",
+                "简介": "Datawhale Member No 0"
+              }
+            ]
+          },
+          {
+            "标题": "AI+X College Tour: Bringing AI Open Source Education to 1,000 Colleges and Universities",
+            "人员": [
+              {
+                "姓名": "Gan Yuanqi",
+                "简介": "Member of Datawhale, author of 2023 White Paper on Artificial Intelligence Talents"
+              }
+            ]
+          },
+          {
+            "标题": "Starting from scratch, how can I help more than 500 students step into the AI era?",
+            "人员": [
+              {
+                "姓名": "Chen Fuyuan",
+                "简介": "Founder of AI Association at GSUPL, Algorithm Engineer at Wenji Intelligence."
+              }
+            ]
+          },
+          {
+            "标题": "On How I Became the \"Mother\" in the Eyes of \"Xiaodeng\"",
+            "人员": [
+              {
+                "姓名": "Sun Bochen",
+                "简介": "Head of ifLab Club, BISTU"
+              }
+            ]
+          },
+          {
+            "标题": "Datawhale Photo Time",
+            "人员": [
+              {
+                "姓名": "Gan Yuanqi",
+                "简介": "Member of Datawhale, author of 2023 White Paper on Artificial Intelligence Talents"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:10-14:50",
+        "序号": "",
+        "标题": "AI+Innovative Practices: Scientific Research, Robots, and Academic Competitions",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "AI+Robot: Embodied Intelligence and Reinforcement Learning",
+            "人员": [
+              {
+                "姓名": "Brother Zihao from Tongji University",
+                "简介": "AI kol，Datawhale Member"
+              }
+            ]
+          },
+          {
+            "标题": "From growing up alone to merging into the ocean of idealistic young people",
+            "人员": [
+              {
+                "姓名": "Yang Ruopu",
+                "简介": "Member of the ACM Collegiate Team of Shaanxi University of Science and Technology, Co - founder of Datawhale in Northwest China's Colleges and Universities."
+              }
+            ]
+          },
+          {
+            "标题": "AI+Research: In the AI Era, How Far Are We from the Scenario Where Everyone Can Be a Scientist?",
+            "人员": [
+              {
+                "姓名": "Li Mengyao",
+                "简介": "Assistant Professor at Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:50-15:30",
+        "序号": "",
+        "标题": "AI + Interdisciplinary Disciplines: Integration, Innovation and Frontier Exploration",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "AI＋Medical Education: When AI Becomes the Best Standardized Patient",
+            "人员": [
+              {
+                "姓名": "Wang Yawen",
+                "简介": "Head of the AI Product Line of Jucheng Mingyi (Beijing) Institute of Medical Simulation Technology，Datawale member"
+              }
+            ]
+          },
+          {
+            "标题": "When Business Schools Encounter AI: The Reflections and Explorations of a University Teacher",
+            "人员": [
+              {
+                "姓名": "Languang",
+                "简介": "Director of the Office of International Exchange and Cooperation of Surrey International Institute, Dongbei University of Finance and Economics"
+              }
+            ]
+          },
+          {
+            "标题": "When finance meets A",
+            "人员": [
+              {
+                "姓名": "Qi Guohao",
+                "简介": "Founder of the Financial Technology Association of Hunan University"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:30-16:30",
+        "序号": "",
+        "标题": "AI+  Talent Development: Employment, Super Individual",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "In the era of AI, soft skillscollege students need to possess for future career",
+            "人员": [
+              {
+                "姓名": "Bian Sikang",
+                "简介": "Director of Open Source Technology Growth Business at Ant Group"
+              }
+            ]
+          },
+          {
+            "标题": "outstanding alumni of Jilin University for the next decade",
+            "人员": [
+              {
+                "姓名": "Che Haoyuan",
+                "简介": "Associate Professor, Public Computer Teaching and Research Center, Jilin University"
+              }
+            ]
+          },
+          {
+            "标题": "AI enables creative people to be seen",
+            "人员": [
+              {
+                "姓名": "Xu Wenhao",
+                "简介": "President of the Artificial Intelligence Association of Zhejiang University"
+              }
+            ]
+          },
+          {
+            "标题": "AI + Super Individual: The Transformation of Production Relations and the Path to Super - individuals in the AI Era",
+            "人员": [
+              {
+                "姓名": "Moon",
+                "简介": "Insitute of Industrial Innovation, SJTU"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "16:30-17:45",
+        "序号": "",
+        "标题": "AI FOR GOOD",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Botang",
+                "简介": "Initiator of Hangzhou AI Workshop and Hackathon Weekly (Hangzhou)"
+              }
+            ]
+          },
+          {
+            "标题": "Let AI be used for good. Embrace technology and care",
+            "人员": [
+              {
+                "姓名": "Ling Zhipeng",
+                "简介": "Founder of Ting Zhang"
+              }
+            ]
+          },
+          {
+            "标题": "Let AI be the starlight",
+            "人员": [
+              {
+                "姓名": "Yang Chenliang",
+                "简介": "Founder of Toneunity"
+              }
+            ]
+          },
+          {
+            "标题": "Let AI be dedicated to love and kindness",
+            "人员": [
+              {
+                "姓名": "Lv Zhaobo",
+                "简介": "Member of CMC and AI Architect"
+              }
+            ]
+          },
+          {
+            "标题": "A patient with rare disease who wants to reconstruct the life of 40 million people.",
+            "人员": [
+              {
+                "姓名": "Elijah Ekpel",
+                "简介": "Founder of the K - Hub Open - Source Community for Rare Diseases"
+              }
+            ]
+          },
+          {
+            "标题": "Let AI assist children with autism.",
+            "人员": [
+              {
+                "姓名": "Zhang Hao",
+                "简介": "The initiator of the \"AI for Autism\" public - welfare picture book project."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Second Floor Wu Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "9:00-10:00",
+        "序号": "",
+        "标题": "AI+Games",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Fang Ke",
+                "简介": "Lecturer of Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          },
+          {
+            "标题": "AI empower educational games:When AI breathes new life into history, what kind of innovative and engaging educational experiences will emerge?",
+            "人员": [
+              {
+                "姓名": "Lin Sijing",
+                "简介": "Post Graduate student of Tsinghua Universit"
+              },
+              {
+                "姓名": "Song Yujia",
+                "简介": "Undergraduate student of Qingdao Agricultural University"
+              }
+            ]
+          },
+          {
+            "标题": "Agent Crowd：Multiplayer (Agent) Games Enabled by AI Agents",
+            "人员": [
+              {
+                "姓名": "Li Jiaxuan",
+                "简介": "Undergraduate student of Beijing University of Technology"
+              }
+            ]
+          },
+          {
+            "标题": "Agent as Game System：How can AI function as the game system itself and unlock the potential of an unbounded gaming world?",
+            "人员": [
+              {
+                "姓名": "Shi Tianyu",
+                "简介": "Post Graduate student of Tsinghua Universit"
+              },
+              {
+                "姓名": "Zang Tianpei",
+                "简介": "Post Graduate student of Communication University of China"
+              }
+            ]
+          },
+          {
+            "标题": "Agent Academy，boost everyone's imagination",
+            "人员": [
+              {
+                "姓名": "Zang Tianpei",
+                "简介": "Post Graduate student of Communication University of China"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "10:00-11:00",
+        "序号": "",
+        "标题": "Evaluation: explore the boundaries of AI capabilitie",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Mingshi",
+                "简介": "AGI - Eval Community"
+              }
+            ]
+          },
+          {
+            "标题": " AI's Educational Capabilities",
+            "人员": [
+              {
+                "姓名": "Wang Ziwen",
+                "简介": "Product Manager of the AGI - Eval Evaluation Community"
+              }
+            ]
+          },
+          {
+            "标题": "AI + Game",
+            "人员": [
+              {
+                "姓名": "Wen Ying",
+                "简介": "Tenured Associate Professor of the John Hopcroft Center at Shanghai Jiao Tong University"
+              }
+            ]
+          },
+          {
+            "标题": "Man - Machine Code/Mathematics - Exploration of AI's Capabilities in Human - Machine Collaboration",
+            "人员": [
+              {
+                "姓名": "Sun Liangtai",
+                "简介": "Senior Algorithm Engineer of AGI - Eval"
+              }
+            ]
+          },
+          {
+            "标题": "AI plus multi-modalities",
+            "人员": [
+              {
+                "姓名": "Li Chunyi",
+                "简介": "Ph.D. student jointly supervised by Shanghai Jiao Tong University and Nanyang Technological University."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-11:45",
+        "序号": "",
+        "标题": "Open Source Chips and Talents",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Su Xiaoke",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "RISC-V Latest Trends ",
+            "人员": [
+              {
+                "姓名": "Liu Hanzhang",
+                "简介": "A nomad who is just an onlooker at the very end of the development of RISC-V."
+              }
+            ]
+          },
+          {
+            "标题": "The best time to start learning about \"OSCC\" is right now.",
+            "人员": [
+              {
+                "姓名": "Wang Rui",
+                "简介": "The OSCC teaching assistant who has always been taught by the students"
+              }
+            ]
+          },
+          {
+            "标题": "In universities, I teach the \"young students\" to “fabricate” chips",
+            "人员": [
+              {
+                "姓名": "Yang Haotian",
+                "简介": "Head of the \"OSCC\" studio at Shenzhen Technology University."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Second Floor Wu Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "12:00-15:30",
+        "序号": "",
+        "标题": "AI +X，Work Shop, marching towards 2050",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Lv Zhaobo",
+                "简介": "MumuLab AI Architect"
+              }
+            ]
+          },
+          {
+            "标题": "Second Me",
+            "人员": [
+              {
+                "姓名": "Dr. Fangbo Tao",
+                "简介": "Hangzhou AI Workshop x Hackathon Weekly"
+              }
+            ]
+          },
+          {
+            "标题": "Evaluation of Human Machine",
+            "人员": [
+              {
+                "姓名": "Wang Mingshi",
+                "简介": "AGI - Eval Community"
+              }
+            ]
+          },
+          {
+            "标题": "AI + X Sand Table",
+            "人员": [
+              {
+                "姓名": "Lv Zhaobo",
+                "简介": "MumuLab AI Architect"
+              }
+            ]
+          },
+          {
+            "标题": "AI + Game Design",
+            "人员": [
+              {
+                "姓名": "Fang Ke",
+                "简介": "Lecturer at Tsinghua Shenzhen International Graduate School"
+              }
+            ]
+          },
+          {
+            "标题": "AI Reproduce the expert's chain of thought",
+            "人员": [
+              {
+                "姓名": "Qi Guohao",
+                "简介": "Founder of the Financial Technology Association of Hunan University"
+              }
+            ]
+          },
+          {
+            "标题": "Jiang Xuanyu",
+            "人员": [
+              {
+                "姓名": "Jiang Xuanyu",
+                "简介": "Co - founder of Liangjing Artificial Intelligence"
+              }
+            ]
+          },
+          {
+            "标题": "AI + MCP",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "AI + Embodied Intelligence | Bipedal/Humanoid Robot",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "AI + 3D particle effects",
+            "人员": [
+              {
+                "姓名": "Brother Zihao from Tongji University",
+                "简介": "AI KOL，Member of Datawhale"
+              }
+            ]
+          },
+          {
+            "标题": "How can you discover an asteroid that belongs to you?",
+            "人员": [
+              {
+                "姓名": "Chen Song",
+                "简介": "AKA BG4AHZ， an entrepreneur in AI image sensors and a maker of astronomical telescopes."
+              }
+            ]
+          },
+          {
+            "标题": "Explore the Openness and Open Source of Physical AI",
+            "人员": [
+              {
+                "姓名": "Zhao Tong",
+                "简介": "Head of the DAMO Developer Matrix at Alibaba DAMO Academy"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Cai Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "9:00-12:00",
+        "序号": "",
+        "标题": "AI for EDA & EDA for AI",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Li Lin",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Development Trends of AI-EDA and Empyrean Strategic Layout",
+            "人员": [
+              {
+                "姓名": "Yang Zusheng",
+                "简介": "Empyrean Solution Director"
+              }
+            ]
+          },
+          {
+            "标题": "As a design hub for front-end design and back-end implementation, AI is bound to bring about a leapfrog improvement in logic synthesis.",
+            "人员": [
+              {
+                "姓名": "Chen Zhi",
+                "简介": "Deputy General Manager of Marketing,Zenisyn"
+              }
+            ]
+          },
+          {
+            "标题": "AI for EDA & EDA for AI",
+            "人员": [
+              {
+                "姓名": "He Qing",
+                "简介": "Founder of Phlexing"
+              }
+            ]
+          },
+          {
+            "标题": "AI Generates AMS Circuits",
+            "人员": [
+              {
+                "姓名": "Zhu Chengyu",
+                "简介": "Deputy General Manager of BTD "
+              }
+            ]
+          },
+          {
+            "标题": "AI - empowered Process Design Kit (PDK)",
+            "人员": [
+              {
+                "姓名": "Huang Guoxun",
+                "简介": "Founder of Linkone"
+              }
+            ]
+          },
+          {
+            "标题": "Logic Synthesis Based on New Computing Engines",
+            "人员": [
+              {
+                "姓名": "Storage Flying",
+                "简介": "Professor in the School of Information Science and Engineering, Ningbo University"
+              }
+            ]
+          },
+          {
+            "标题": "From the abstract to the concrete, mathematical thinking and methods empower the research and development of advanced products.",
+            "人员": [
+              {
+                "姓名": "Wang Peng",
+                "简介": "Professor in the School of Integrated Circuit Science and Engineering, Beihang University."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Cai Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-16:00",
+        "序号": "",
+        "标题": "The Collision of Mathematics, Mechanics and Computing Hardware",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Li Jiangwei",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "The robot that can reach the greatest depth in the world ",
+            "人员": [
+              {
+                "姓名": "Li Tiefeng",
+                "简介": "A professor and doctoral supervisor at Zhejiang University, the recipient of the National Science Fund for Excellent Young Scholars, and a mechanics expert who has transformed into a \"fisherman\"."
+              }
+            ]
+          },
+          {
+            "标题": "The darkest material in the world",
+            "人员": [
+              {
+                "姓名": "Professor Zhang Zhong",
+                "简介": "Professor in the School of Engineering Science at the University of Science and Technology of China and winner of the National Science Fund for Distinguished Young Scholars."
+              }
+            ]
+          },
+          {
+            "标题": "AI4SCIENCE：Physical transmission deciphers the mechanical intricacies of matter.",
+            "人员": [
+              {
+                "姓名": "Professor Xu Zhiping",
+                "简介": "Professor in the Department of Engineering Mechanics at Tsinghua University and Director of the Institute of Solid Mechanics."
+              }
+            ]
+          },
+          {
+            "标题": "Geometric Semantic Modeling Framework and Intelligent Design Paradigm",
+            "人员": [
+              {
+                "姓名": "Professor Yang Zhouwang",
+                "简介": "Professor in the School of Mathematical Sciences， Associate Dean in the School of Big Data at the University of Science and Technology of China."
+              }
+            ]
+          },
+          {
+            "标题": "An Airdog's Life",
+            "人员": [
+              {
+                "姓名": "Dr. Hongyu Ran",
+                "简介": "Doctor of Aerodynamics from the California Institute of Technology, founder of Suzhou BeiAng Smart Technology Co., Ltd. and the Airdog brand."
+              }
+            ]
+          },
+          {
+            "标题": "Advanced Chip Architectures and In-vehicle Applications",
+            "人员": [
+              {
+                "姓名": "KAI Chirca",
+                "简介": "Chief Architect of TI"
+              }
+            ]
+          },
+          {
+            "标题": "Prospects for Future Chip Manufacturing Technologies",
+            "人员": [
+              {
+                "姓名": "Dr. Jinping Liu",
+                "简介": "With 20 years in the field of chip manufacturing, a \"youngster\" who doesn't have the courage to retire."
+              }
+            ]
+          },
+          {
+            "标题": "HBM Packaging Simulation and Optimization",
+            "人员": [
+              {
+                "姓名": "Dr. Shijun Wang",
+                "简介": "A graduate from Tsinghua University with a doctoral degree, working in the semiconductor industry."
+              }
+            ]
+          },
+          {
+            "标题": "AI empowers IC and  AI designs AI chips.",
+            "人员": [
+              {
+                "姓名": "Zhai Lufeng",
+                "简介": "Research Expert at the Intelligent Manufacturing Center of Zhijiang Lab"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "16:00-18:00",
+        "序号": "",
+        "标题": "Everything Shines: Where Science Meets the Enchanted Realm of Fantasy",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yu Shaoliang",
+                "简介": "Zhe Jiang Lab"
+              }
+            ]
+          },
+          {
+            "标题": "What is optical computing?",
+            "人员": [
+              {
+                "姓名": "Qu Yurui",
+                "简介": "Assistant Professor at ShanghaiTech University"
+              }
+            ]
+          },
+          {
+            "标题": "Quantum Information in a Nutshell",
+            "人员": [
+              {
+                "姓名": "Dong Ying",
+                "简介": "Research Fellow of the China Jiliang University"
+              }
+            ]
+          },
+          {
+            "标题": "Analyze the biological processes in the living system with light",
+            "人员": [
+              {
+                "姓名": "Lee Hyun Jung",
+                "简介": "100 Young Research Fellows at Zhejiang University"
+              }
+            ]
+          },
+          {
+            "标题": "Listen to the Sounds from the Depths of the Universe: The Space Gravitational Wave Detection Plan",
+            "人员": [
+              {
+                "姓名": "Meng Lingqiang",
+                "简介": "Associate Research Fellow at Hangzhou Institute for Advanced Study, University of Chinese Academy of Sciences"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Cai Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "9:30-11:00",
+        "序号": "",
+        "标题": "The Origin and Applications of Computing Power， And Round Table Discussion",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yuan Lei",
+                "简介": "Senior Research Fellow at the Intelligent Manufacturing Center of Zhijiang Lab, Former Research Scientist at Apple."
+              }
+            ]
+          },
+          {
+            "标题": "The Origin and Applications of Computing Power",
+            "人员": [
+              {
+                "姓名": "Yuan Lei",
+                "简介": "Senior Research Specialist at the Intelligent Manufacturing Center of Zhijiang Lab, Former Research Scientist at Apple."
+              }
+            ]
+          },
+          {
+            "标题": "Round Table Discussion",
+            "人员": [
+              {
+                "姓名": "Yuan Lei",
+                "简介": "Senior Research Specialist at the Intelligent Manufacturing Center of Zhijiang Lab, Former Research Scientist at Apple."
+              },
+              {
+                "姓名": "Zhou Meisheng",
+                "简介": "A full - stack chip professional with 40 years of experience in the chip industry"
+              },
+              {
+                "姓名": "Kai Chirca",
+                "简介": "Chief Architect of TI"
+              },
+              {
+                "姓名": "Li Jiangwei",
+                "简介": "Director - Scientist of the Intelligent Manufacturing Center at Zhijiang Lab, Former Senior R&D Director at ASML."
+              },
+              {
+                "姓名": "Zhao Sa",
+                "简介": "Vice President of Semitronix, Former Director of Research and Development at KLA Corporation."
+              },
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "Use full-featured GPUs to compute the answers for the future world",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Li Feng",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "In the future, will AI render us unemployed?",
+            "人员": [
+              {
+                "姓名": "Frank",
+                "简介": "Co Founder of Mthreads、Director of Mthreads Academy，"
+              }
+            ]
+          },
+          {
+            "标题": "Will there be a boundary between the real world and the virtual world ?",
+            "人员": [
+              {
+                "姓名": "Han Haowei",
+                "简介": "Chief Physical Engine Architect of Mthreads, Fashion Designer, CG Technical Director of Animation Films, and UPloader in the Painting Area of Bilibili."
+              }
+            ]
+          },
+          {
+            "标题": "In the future, will robots become conscious?",
+            "人员": [
+              {
+                "姓名": "William",
+                "简介": "Head of the Product Ecology of Ti5robots"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Cai Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "12:00-14:30",
+        "序号": "",
+        "标题": "Let's see how everyone is changing the world through computing",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Ping",
+                "简介": "Co Founder of Denglinai"
+              }
+            ]
+          },
+          {
+            "标题": "Self Driving Chip",
+            "人员": [
+              {
+                "姓名": "Xu Ningyi",
+                "简介": "Rhino"
+              }
+            ]
+          },
+          {
+            "标题": "YGOPTICS",
+            "人员": [
+              {
+                "姓名": "Yin Xiaodong",
+                "简介": "Uphoton"
+              }
+            ]
+          },
+          {
+            "标题": "Presentation title",
+            "人员": [
+              {
+                "姓名": "Wang Ping",
+                "简介": "Co Founder of Denglinai"
+              }
+            ]
+          },
+          {
+            "标题": "The Application of Thoracic Electrical Impedance Tomography Technology in the Medical Field",
+            "人员": [
+              {
+                "姓名": "Duan Hongyu",
+                "简介": "Infivision"
+              }
+            ]
+          },
+          {
+            "标题": "Challenges and Opportunities of Intelligent Computing Networks in the Era of Artificial General Intelligence (AGI)",
+            "人员": [
+              {
+                "姓名": "Qiu Xiang",
+                "简介": "MUCSE"
+              }
+            ]
+          },
+          {
+            "标题": "How does an optical fiber sense?",
+            "人员": [
+              {
+                "姓名": "Ma Lingmei",
+                "简介": "Associate Research Fellow, Institute of Optoelectronic Engineering, Westlake University."
+              },
+              {
+                "姓名": "Peng Guiqiang",
+                "简介": "Oriental Computing Chip"
+              },
+              {
+                "姓名": "Xia Lixue",
+                "简介": "Infini-ai"
+              }
+            ]
+          },
+          {
+            "标题": "Vision pro",
+            "人员": [
+              {
+                "姓名": "Chen Hanke",
+                "简介": "Gome"
+              }
+            ]
+          },
+          {
+            "标题": "From Graphics to Natural Language: Practical Exploration of the DUDU Agent in the FPGA Workflow",
+            "人员": [
+              {
+                "姓名": "Geng Zhuliang",
+                "简介": "Founder of Zhen Yu Tech"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:30-15:30",
+        "序号": "",
+        "标题": "The Gathering of Physicists with a Combined Mastery of Over 300 Years: A Battle of Wits and Skills",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Marco",
+                "简介": "A volunteer of 2050 who has a passion for physics"
+              }
+            ]
+          },
+          {
+            "标题": "The daily discussions of physicists.",
+            "人员": [
+              {
+                "姓名": "Wang Kelin",
+                "简介": "A professor in the Department of Modern Physics at the University of Science and Technology of China, who has been engaged in the field of physics for over 70 years."
+              },
+              {
+                "姓名": "Gu Yan",
+                "简介": "A professor in the Department of Modern Physics at the University of Science and Technology of China, who has been engaged in the field of physics for over 70 years."
+              },
+              {
+                "姓名": "Wan Shaolong",
+                "简介": "A professor in the Department of Modern Physics at the University of Science and Technology of China, who has been engaged in the field of physics for over 40 years."
+              },
+              {
+                "姓名": "Cao Zexian",
+                "简介": "A researcher at the Institute of Physics, Chinese Academy of Sciences, who has been engaged in the field of physics for nearly 40 years"
+              },
+              {
+                "姓名": "Chen Qinghu",
+                "简介": "A professor in the Department of Physics at Zhejiang University, who has been engaged in the field of physics for nearly 40 years"
+              },
+              {
+                "姓名": "Liu Tao",
+                "简介": "A professor in the Department of Physics at Southwest University of Science and Technology, who has been engaged in the field of physics for nearly 40 years."
+              },
+              {
+                "姓名": "Gao Xianlong",
+                "简介": "A professor in the Department of Physics at Zhejiang Normal University, who has been engaged in the field of physics for more than 30 years."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Xian Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-11:00",
+        "序号": "",
+        "标题": "Four Spatial Embodiments: Seeking Human Creativity from Architecture, Historical Theories, Landscape, and Drama",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zhao Deli",
+                "简介": "PhD, Associate Professor at the School of Architecture, China Academy of Art, and Founding Director of Zai - zao Architecture Firm."
+              }
+            ]
+          },
+          {
+            "标题": "The Process of Architectural Embodiment",
+            "人员": [
+              {
+                "姓名": "Zhao Deli",
+                "简介": "PhD, Associate Professor at the School of Architecture, China Academy of Art, and Founding Director of Zai Zao Architecture Firm."
+              }
+            ]
+          },
+          {
+            "标题": "Memory Theatre",
+            "人员": [
+              {
+                "姓名": "Big as a star",
+                "简介": "PhD, teacher at the School of Arts and Humanities of the China Academy of Art, and former editor of New Arts."
+              }
+            ]
+          },
+          {
+            "标题": "The Temporal and Spatial Misplacement",
+            "人员": [
+              {
+                "姓名": "Wang Dongliang",
+                "简介": "PhD, teacher at the China Academy of Art."
+              }
+            ]
+          },
+          {
+            "标题": "Space as the Primary Medium - Creating Performances in the Manner of Curating, and Conducting Exhibition Design in the Way of Performing",
+            "人员": [
+              {
+                "姓名": "Xinge",
+                "简介": "Curator, space designer, stage designer, teacher in the Department of Media Scenography at the China Academy of Art."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:30",
+        "序号": "",
+        "标题": "Isn't it just a water wheel? What on earth are you up to!",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Huang Tuo",
+                "简介": "Doctor of Synopsis of the Golden Chamber, researching on Bianque's Pulse Diagnosis."
+              }
+            ]
+          },
+          {
+            "标题": "The \"Inception Space\" of a Modern Traditional Chinese Medicine Practitioner",
+            "人员": [
+              {
+                "姓名": "Xiao Jun",
+                "简介": "Astronomer"
+              }
+            ]
+          },
+          {
+            "标题": "Reconstructing the Hydro-mechanical Astronomical Clock Tower and Activating the Lifeblood System",
+            "人员": [
+              {
+                "姓名": "Huang Tuo",
+                "简介": "Doctor of Synopsis of the Golden Chamber, researching on Bianque's Pulse Diagnosis."
+              }
+            ]
+          },
+          {
+            "标题": "The Story of Autumn Colors on the Que and Hua Mountains (Fuyu)",
+            "人员": [
+              {
+                "姓名": "Shao Wenhuan",
+                "简介": "Director of the Photography Department of the China Academy of Art"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Xian Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-15:00",
+        "序号": "",
+        "标题": "AI4S：Scientific Model Forum",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Xie Yangbin",
+                "简介": "The Scientific Foundation Model Team of Zhijiang Lab"
+              }
+            ]
+          },
+          {
+            "标题": "Transform AI into an astronomy expert: AstroOne, the intelligent brain for exploring the starry sky.",
+            "人员": [
+              {
+                "姓名": "Chen Huaxi",
+                "简介": "The Astronomical Model Designer Who Embeds a Telescope into the Computer"
+              }
+            ]
+          },
+          {
+            "标题": "The Celestial Phenomena: SpecCLIP Explores the Secrets of the Origin of the Milky Way with the Living Fossils of the Universe",
+            "人员": [
+              {
+                "姓名": "Tang Xiaoyu",
+                "简介": "The Cosmic Explorer who Teaches AI to Gaze at the Starry Sky"
+              }
+            ]
+          },
+          {
+            "标题": "A pair of super glasses for the Earth: The wonderful vision of the remote sensing model TerraOne.",
+            "人员": [
+              {
+                "姓名": "Liu Jing",
+                "简介": "The \"AI Photographer\" who Views the Earth from Satellites"
+              }
+            ]
+          },
+          {
+            "标题": "A color ultrasound for the Earth: The underground secrets revealed by the ShaleOne model for oil and gas seismic exploration.",
+            "人员": [
+              {
+                "姓名": "Zhang Ji",
+                "简介": "The \"Doctor\" of Seismic Waves Who Diagnoses the Earth"
+              }
+            ]
+          },
+          {
+            "标题": "Let AI be the \"Good Judge\" for new materials: The CrystalOne model will guide you to unlock future materials.",
+            "人员": [
+              {
+                "姓名": "Yang Shuxiang",
+                "简介": "AI Alchemist Dealing with Atoms"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:00-15:45",
+        "序号": "",
+        "标题": "Legal Challenges in the Era of Artificial Intelligence",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Xu Kai",
+                "简介": "Law Firm Partner, Deputy Director of the Digital Technology and Artificial Intelligence Committee of the Shanghai Bar Association."
+              }
+            ]
+          },
+          {
+            "标题": "The Open Business Form in the Open Source World",
+            "人员": [
+              {
+                "姓名": "Sun Ming",
+                "简介": "Lawyer, Director of Shanghai Open - source Legal Service Center, and Chief Analyst in the Legal Transformation Industry."
+              }
+            ]
+          },
+          {
+            "标题": "Would you like to“pick”， \"algorithm boss\"?",
+            "人员": [
+              {
+                "姓名": "Fang Hao",
+                "简介": "Law firm partner, member of the Digital Technology and Artificial Intelligence Committee of the Shanghai Lawyers Association."
+              }
+            ]
+          },
+          {
+            "标题": "Legal Challenges of Synthetic Data - How AI-generated Content Transforms the Copyright System",
+            "人员": [
+              {
+                "姓名": "Xu Kai",
+                "简介": "Law Firm Partner, Deputy Director of the Digital Technology and Artificial Intelligence Committee of the Shanghai Bar Association."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:45-17:15",
+        "序号": "",
+        "标题": "Gene Related Technology",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Fu Shuai",
+                "简介": "Research Specialist at Zhijiang Lab, AI Decoder for the Game between Virus and Plant Immunity."
+              }
+            ]
+          },
+          {
+            "标题": "Notes on Hunting Drugs",
+            "人员": [
+              {
+                "姓名": "Shi Mang",
+                "简介": "Professor, Sun Yat Sen University，A virus hunter"
+              }
+            ]
+          },
+          {
+            "标题": "AI Liberated Enzyme Data Editing and Reviewing",
+            "人员": [
+              {
+                "姓名": "Jiang Jinling",
+                "简介": "Zhe Jiang Lab，A data curator and traveler"
+              }
+            ]
+          },
+          {
+            "标题": "The Great World through a Small Hole",
+            "人员": [
+              {
+                "姓名": "Wei Ke",
+                "简介": "Senior Manager of Blast at BGI"
+              }
+            ]
+          },
+          {
+            "标题": "Science with an Artistic Perspective - Digital Life",
+            "人员": [
+              {
+                "姓名": "Jiang Xiaosen",
+                "简介": "Postdoctoral Fellow at BGI"
+              }
+            ]
+          },
+          {
+            "标题": "Generation Z's \"Sleep Gods\": Remolding Sleep with Brain Science",
+            "人员": [
+              {
+                "姓名": "Ding Jiahong",
+                "简介": "Scientist in the Brain Health Project of BGI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "17:15-18:15",
+        "序号": "",
+        "标题": "Entrepreneurs, assemble! AI × Tools, ideas spin faster.",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Taro",
+                "简介": "Founder of Zion"
+              }
+            ]
+          },
+          {
+            "标题": "Hatching into the AI Era: The Accelerated Cultivation Record of New Pet Species： Fumao",
+            "人员": [
+              {
+                "姓名": "Kashiwazawa",
+                "简介": "Director of Fumao Pet"
+              }
+            ]
+          },
+          {
+            "标题": "How can a beginner with no coding background make money with AI? There are more ways.",
+            "人员": [
+              {
+                "姓名": "A Xing",
+                "简介": "Core Developer of Coze / Founder of Axing AI Studio / AI Course Lecturer / Operator of Ten million followers Account"
+              }
+            ]
+          },
+          {
+            "标题": "How can Z-generation entrepreneurs in the traditional home decoration industry achieve transformation and upgrading through AI and no-code?",
+            "人员": [
+              {
+                "姓名": "Siding",
+                "简介": "Founder of Decoration Ai Chain, CEO of 美化空间"
+              }
+            ]
+          },
+          {
+            "标题": "From Creating Self-made Steam Games to Full-stack AI Application Development: The Life of a 16-year-old High School Student",
+            "人员": [
+              {
+                "姓名": "Nuclear egg noodles",
+                "简介": "High school student hacker marathon developer / Bilibili Up - host"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Xian Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "09:00-11:00",
+        "序号": "",
+        "标题": "New Record: Our Unfinished Appointment",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "For all those who look up at the starry sky.",
+            "人员": [
+              {
+                "姓名": "Chen Song",
+                "简介": "3D Vision Sensor Entrepreneur/Astronomical Telescope Maker"
+              }
+            ]
+          },
+          {
+            "标题": "Celestial Archipelago - Lenghu Astro-related Art",
+            "人员": [
+              {
+                "姓名": "Yipei",
+                "简介": "An art practionor journeying from island ecology into the stars of the universe"
+              }
+            ]
+          },
+          {
+            "标题": "Where have the sparks in Lenghu spread to? My \"Retrospective Melody\" of the Year.",
+            "人员": [
+              {
+                "姓名": "Leo",
+                "简介": "Flow Hacker Who Masters AI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:30",
+        "序号": "",
+        "标题": "Lenghu Science Fiction Salon",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Yuan Zhenmin",
+                "简介": "Director of the Mars Immigration Bureau"
+              }
+            ]
+          },
+          {
+            "标题": "The origin of Lenghu science fiction.",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Guest Sharing & New Book Release of the 7th Lenghu Award",
+            "人员": [
+              {
+                "姓名": "Yan Leisheng",
+                "简介": "A writing enthusiast. The winner of the 7th Lenghu Award."
+              },
+              {
+                "姓名": "Liu Xiao",
+                "简介": "A programmer and an amateur sci-fi writer, the winner of the 2nd Lenghu Award."
+              },
+              {
+                "姓名": "Chu Longfei",
+                "简介": "Rocket engineer / Mars pioneer / Once attempted to submit works to the Lenghu Award."
+              },
+              {
+                "姓名": "Lin Hesong",
+                "简介": "An independent film director who completed two films released in cinemas after shooting them in Lenghu with mobile phones."
+              },
+              {
+                "姓名": "Zhao Yewei",
+                "简介": "Supervisor of the Variety Show Outdoor Dash"
+              },
+              {
+                "姓名": "Li Jia",
+                "简介": "Film and Television Planner and Producer"
+              }
+            ]
+          },
+          {
+            "标题": "The Road to Lenghu Science-Fiction Film and Television",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "The Film Projection of Lenghu",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Hui Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-11:00",
+        "序号": "",
+        "标题": "Scientific Research with Delight in the AI Era",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Hu Rui",
+                "简介": "Alibaba Cloud's school - enterprise collaborator"
+              }
+            ]
+          },
+          {
+            "标题": "Luoshu, a Multi modal Reasoning Large Model for Water  Energy  Food Nexus",
+            "人员": [
+              {
+                "姓名": "Xia Cuihui",
+                "简介": "Institute of Tibetan Plateau Research, Chinese Academy of Sciences"
+              }
+            ]
+          },
+          {
+            "标题": "Nüwa Biomolecular Structure Large Model",
+            "人员": [
+              {
+                "姓名": "Cheng Kaihui",
+                "简介": "Institute of AI Innovation and Industry, Fudan University"
+              }
+            ]
+          },
+          {
+            "标题": "How does AI technology find the colors of ancient paintings and help ordinary people appreciate paintings?",
+            "人员": [
+              {
+                "姓名": "Sun Weichen",
+                "简介": "School of Art and Archaeology, Zhejiang University"
+              }
+            ]
+          },
+          {
+            "标题": "Dataset of research specimens of paleovertebrates",
+            "人员": [
+              {
+                "姓名": "Zhang Shaohui",
+                "简介": "Institute of Vertebrate Paleontology and Paleoanthropology, Chinese Academy of Sciences"
+              }
+            ]
+          },
+          {
+            "标题": "Open global carbon emission dataset",
+            "人员": [
+              {
+                "姓名": "Deng Zhu",
+                "简介": "Department of Earth System Science, Tsinghua University"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "11:00-12:00",
+        "序号": "",
+        "标题": "Oil and Gas Brain: AI Driven Exploration Revolution and Development Paradigm Upgrade",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Xu Bin",
+                "简介": "Research Institute of Petroleum Exploration and Development, China National Petroleum Corporation"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Ren Yili",
+                "简介": "Project Leader of the FalconCore Rock Image Intelligent Analysis Project, an algorithm engineer who \"looks at the Earth\" under a microscope."
+              }
+            ]
+          },
+          {
+            "标题": "FalconCore：Looking at the Earth under the microscope, where are the oil and gas \"sweet spots\"?",
+            "人员": [
+              {
+                "姓名": "Ren Yili",
+                "简介": "Project Leader of the FalconCore Rock Image Intelligent Analysis Project, an algorithm engineer who \"looks at the Earth\" under a microscope."
+              }
+            ]
+          },
+          {
+            "标题": "One Grain of Sand, One World: How to Conduct Mud Logging Interpretation and Evaluation as Well as Directional Drilling While Drilling?",
+            "人员": [
+              {
+                "姓名": "Zheng Zilu",
+                "简介": "Assistant Engineer at the Artificial Intelligence Research Center, an innovator focusing on the implementation of AI in oil fields."
+              }
+            ]
+          },
+          {
+            "标题": "Equip the Old Oil Fields with \"Intelligent Driving\" Equipment: Make the Underground Data Reveal the Secrets of Production Increase",
+            "人员": [
+              {
+                "姓名": "Zhu Bangzhao",
+                "简介": "Assistant Engineer of the Institute of Intelligent Control and Equipment (Interdisciplinary Research Center)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Hui Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-15:00",
+        "序号": "",
+        "标题": "Can AI generate human-like emotions?",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Zhang Youhong",
+                "简介": "from Ant Group focuses on the popularization and dissemination of science and technology content."
+              },
+              {
+                "姓名": "Wang Yun",
+                "简介": "Senior Principal Investigator and Doctoral Supervisor of the Institutes of Brain Science, Fudan University."
+              },
+              {
+                "姓名": "Leibo",
+                "简介": "Researcher of the Brain-Inspired Model Group at the Beijing Academy of Artificial Intelligence."
+              },
+              {
+                "姓名": "Wake up",
+                "简介": "founder and CEO of XingYu Intelligence"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:00-18:00",
+        "序号": "",
+        "标题": "Ant Open Source Technology Salon: Exploring the Infinite Possibilities of Cloud Native AI",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer",
+            "人员": [
+              {
+                "姓名": "Nadia Jiang",
+                "简介": "Ant Group's Open-source Growth Leader, President of Kaiyuanshe."
+              },
+              {
+                "姓名": "Zhao Chen",
+                "简介": "Ant Group Technical Expert, ModelSpec Project Maintainer."
+              },
+              {
+                "姓名": "Li Mengxuan",
+                "简介": "Melon Intelligent Architect, CNCF Speaker, Approver of CNCF Graduation Project Volcano, Author of HAMi in CNCF Landscape&Sandbox Project."
+              },
+              {
+                "姓名": "Liang Lipeng",
+                "简介": "Ant Research and Development Engineer, Member of Koupleless PMC"
+              },
+              {
+                "姓名": "Luo Zexuan",
+                "简介": "Ant Research and Development Engineer, Core Member of MOSN Community"
+              },
+              {
+                "姓名": "Zhang Jintao",
+                "简介": "Kong Inc. Senior Engineer，CNCF Ambassador，Microsoft MVP"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Hui Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "09:00-12:00",
+        "序号": "",
+        "标题": "I wanna put the cold AI into a vacuum flask.",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yi Zhi Bai Wan",
+                "简介": "Founder of ADA Wanyan"
+              }
+            ]
+          },
+          {
+            "标题": "I wanna put the cold AI into a vacuum flask",
+            "人员": [
+              {
+                "姓名": "Yi Zhi Bai Wan",
+                "简介": "Founder of ADA Wanyan"
+              }
+            ]
+          },
+          {
+            "标题": "A Special Blend of AI: How to Discover Genuine Needs in Daily Life",
+            "人员": [
+              {
+                "姓名": "Kelin",
+                "简介": "Founder of Magic Tavern"
+              }
+            ]
+          },
+          {
+            "标题": "How Does Ai Reshape Emotions, Games, Social Interaction and Creation?",
+            "人员": [
+              {
+                "姓名": "Yiyi",
+                "简介": "Senior Product Operations Manage"
+              }
+            ]
+          },
+          {
+            "标题": "Don't ask questions of AI. Instead, have a conversation with it.",
+            "人员": [
+              {
+                "姓名": "Ao",
+                "简介": "Independent AI Development Artist"
+              }
+            ]
+          },
+          {
+            "标题": "Illusions and Fantasies: A Profound Intellectual Collision between Art and AI",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Hui Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "13:30-15:30",
+        "序号": "",
+        "标题": "Mecha on the Screen: The Journey from Science Fiction to Reality",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Meng Yuan",
+                "简介": "Media Manager of DEEPRobotics"
+              },
+              {
+                "姓名": "Zheng Dongxin",
+                "简介": "Senior Product Manager of DEEPRobotics "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Zhi Yun Hall",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "09:00-12:00",
+        "序号": "",
+        "标题": "Searching for Ancient Stars: AstroOne Galactic Scientific Discovery Challenge",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Xie Yangbin",
+                "简介": "Zhijiang Lab's Scientific Foundation Model Team, Space Explorer"
+              }
+            ]
+          },
+          {
+            "标题": "The ten participating teams will respectively conduct oral defenses.",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": "Representatives of ten participating teams"
+              }
+            ]
+          },
+          {
+            "标题": "Expert judges from the National Astronomical Observatories and the Zhijiang Lab will give their comments.",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": "Expert judges from the National Astronomical Observatories and the Zhijiang Lab "
+              }
+            ]
+          },
+          {
+            "标题": "Sharing of AstroOne, the world-leading astronomical model, and its achievements in Ai for Astronomy.",
+            "人员": [
+              {
+                "姓名": "",
+                "简介": ""
+              },
+              {
+                "姓名": "Hou Wen",
+                "简介": "Young astronomer, an expert in astronomy and AI."
+              },
+              {
+                "姓名": "Yellow Sample",
+                "简介": "Young astronomer, an expert in AstroOne - SpecCLIP stellar spectral model."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Zhi Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00-14:30",
+        "序号": "",
+        "标题": "Take the sky as a canvas",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zhao Chenchen",
+                "简介": "Science and Technology jurnalist"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Tang Ruide",
+                "简介": "An investor from the Greater Bay Area"
+              }
+            ]
+          },
+          {
+            "标题": "Is the low - altitude economy a \"Chinese specialty\"? Decoding the development history of the low - altitude economy at home and abroad.",
+            "人员": [
+              {
+                "姓名": "Zhang Bo",
+                "简介": "The first Chinese to fly around the world."
+              }
+            ]
+          },
+          {
+            "标题": "How the Low-Altitude Economy Rewrites the Script of Your Life",
+            "人员": [
+              {
+                "姓名": "Yan Lixing",
+                "简介": "A Cross-border Navigator Building the Aerial Silk Road An Innovator in the Aviation and Tourism Industry"
+              }
+            ]
+          },
+          {
+            "标题": "How can cities become more three - dimensional? Discussing the scene applications of eVTOL in future three - dimensional transportation.",
+            "人员": [
+              {
+                "姓名": "Qian Zhengkai",
+                "简介": "Co-founder of Vision General Aviation, who knows the low-altitude economy best in the financial circle."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "14:30-15:30",
+        "序号": "",
+        "标题": "Sustainability Unfinished: The 100 Breakthrough Answers We Are Searching for in 2050",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Li Yang",
+                "简介": "founder and CEO of ESG.Ai, CTO of Touchbase."
+              }
+            ]
+          },
+          {
+            "标题": "Sustainability Unfinished: The 100 Breakthrough Answers We Are Searching for in 2050",
+            "人员": [
+              {
+                "姓名": "Li Yang",
+                "简介": "founder and CEO of ESG.Ai, CTO of Touchbase."
+              },
+              {
+                "姓名": "Guo Jiajia",
+                "简介": "Founder of TOUCHBASE, an ESG vertical media. "
+              },
+              {
+                "姓名": "Sha Aijun",
+                "简介": "A professional with many years of experience in remote sensing, who believes that ESG is not just empty talk"
+              },
+              {
+                "姓名": "Ella",
+                "简介": "Ambassador of Shiru & Person in Charge of Sustainability of a Manufacturing Enterprise"
+              },
+              {
+                "姓名": "Qian Zhengkai",
+                "简介": "An entrepreneur in low-altitude flight training, who pilots electric aircraft to promote green flying. "
+              },
+              {
+                "姓名": "Lin Huizhi",
+                "简介": "Chairman of Rare Gravitation. "
+              },
+              {
+                "姓名": "Song Zhaohuan",
+                "简介": "VP of New Energy Commercial Vehicles Group"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "15:30-16:00",
+        "序号": "",
+        "标题": "2050，let cars travel all over China relying on wind and sunshine.",
+        "召集人": [],
+        "环节": []
+      },
+      {
+        "时间": "16:00-17:00",
+        "序号": "",
+        "标题": "A Great Compilation of Persona Bugs of Tech Leaders",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Zhang Niannian",
+                "简介": "A senior operator of TGO Kunpeng Club"
+              }
+            ]
+          },
+          {
+            "标题": "When AI can express everything, what else can you convey?",
+            "人员": [
+              {
+                "姓名": "Liu Siyue",
+                "简介": "An executive speech coach "
+              }
+            ]
+          },
+          {
+            "标题": "AI is destroying children's imagination —— How can we tell picture book stories well in the era of AI?",
+            "人员": [
+              {
+                "姓名": "Chu Liang",
+                "简介": "An  dream weaver who turns code into the magic of fairy tales and gives picture books intelligent wings."
+              }
+            ]
+          },
+          {
+            "标题": "Adventures in 2050: From the Gobi Desert to the Future",
+            "人员": [
+              {
+                "姓名": "Wang Qinyi",
+                "简介": "A sixth-grade little girl who loves running, anime, music and basketball."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Zhi Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "10:00-12:00",
+        "序号": "",
+        "标题": "The Curator of Beautiful Causes",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Xiangling",
+                "简介": "The first batch of insurance entrepreneurs in Zhejiang of AIA, a person who connects the X, Y, and Z generations."
+              }
+            ]
+          },
+          {
+            "标题": "What kind of career is a good one for ordinary people?",
+            "人员": [
+              {
+                "姓名": "Kang Shu",
+                "简介": "A person majoring in medical engineering from Zhejiang University who has never worked in the medical field, a serial entrepreneur, and a father of two children."
+              }
+            ]
+          },
+          {
+            "标题": "What exactly is genuine equilibrium",
+            "人员": [
+              {
+                "姓名": "Yin Lu",
+                "简介": "An engineer from a well-known state-owned real estate enterprise， a single mother who raised her daughter alone on the construction site."
+              }
+            ]
+          },
+          {
+            "标题": "Blossoms from the mud",
+            "人员": [
+              {
+                "姓名": "Athena Wang Xiangling",
+                "简介": "FGCS（First - generation College Students)、A woman who doesn't engage in AI but focuses on AIA."
+              }
+            ]
+          },
+          {
+            "标题": "Strive to be a better version of yourself",
+            "人员": [
+              {
+                "姓名": "Xiong Mei",
+                "简介": "A pharmaceutical professional with ten years experience"
+              }
+            ]
+          },
+          {
+            "标题": "Where will the path of career development lead for ordinary people?",
+            "人员": [
+              {
+                "姓名": "Company Commander",
+                "简介": "Former HR executive of a Fortune 500 company, pension planner, and an MBA graduate from Zhejiang University who is going to establish the first family office targeting the middle class."
+              }
+            ]
+          },
+          {
+            "标题": "Ways out for those over 40 years old at  the large Internet companies?",
+            "人员": [
+              {
+                "姓名": "Qin Feng",
+                "简介": "E - commerce entrepreneur and serial entrepreneur in the health - care industry。"
+              }
+            ]
+          },
+          {
+            "标题": "A pharmaceutical professional who has left the industry for ten years, and a very amiable and energetic body fat management specialist. 532:539",
+            "人员": [
+              {
+                "姓名": "Dawn",
+                "简介": "A graduate from the Alibaba ecosystem 8 years ago, and a programmer whose hair is still thick even after 15 years in the industry."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Zhi Yun Hall",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00 - 15:30",
+        "序号": "",
+        "标题": "Ice Whispers of Antarctica",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wang Nan",
+                "简介": "Initiator of the Polar Culture Public Welfare Project, Member of China's Arctic and Antarctic Scientific Expedition Team。"
+              }
+            ]
+          },
+          {
+            "标题": "Observation of the Formation Process of \"Salty\" Ice in the Dark Night of Antarctica",
+            "人员": [
+              {
+                "姓名": "Wang Anliang",
+                "简介": "Associate Research Fellow of the National Marine Environmental Forecasting Center、Winter - over Team Member of China's Zhongshan Station in Antarctic Scientific Expedition。"
+              }
+            ]
+          },
+          {
+            "标题": "1000 Days in Antarctica",
+            "人员": [
+              {
+                "姓名": "Wei Li",
+                "简介": "member of Polar Research Institute of China、member of China Antarctic Scientific Expedition "
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Fu Yun Hall",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-16:00",
+        "序号": "",
+        "标题": " Employment Policies in the AI Era",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Qian Haoliang, Zhang Yuting",
+                "简介": "Explorers with great curiosity in the AI era"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Ground Floor  Fu Yun Hall",
+    "时间段": "27th Morning",
+    "活动": [
+      {
+        "时间": "9:30 - 12:00",
+        "序号": "",
+        "标题": "Identification of Habitable Planetary Environments and Search for Extraterrestrial Life Signals",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Huo Zhuoxi",
+                "简介": "Institute of the Aerospace System Academy, Explorer of Space Astronomy Technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Atrium Glass House",
+    "时间段": "26th Morning",
+    "活动": [
+      {
+        "时间": "9:00-11:00",
+        "序号": "",
+        "标题": "Let Your Own Pen Speak",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Cat",
+                "简介": "High School Student loves visual creation"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Atrium Glass House",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "13:00 - 16:00",
+        "序号": "",
+        "标题": "The Whispers of Time —— AI Memoir Brainstorming Party",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Yi No",
+                "简介": "An innovator deeply engaged in product experience design, a practitioner who explores diversity out of curiosity."
+              },
+              {
+                "姓名": "Kaishuijun, Huazai, Yuzi, Zheng Sang",
+                "简介": "The team of HAI Life Laboratory focuses on AI products in the field of barrier-free access for both the elderly and children."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "时间": "18:30-20:30",
+        "序号": "",
+        "标题": "Self-dialogue, Artistic Meditation, Touch the Authenticity",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Lili",
+                "简介": ""
+              },
+              {
+                "姓名": "Zhou Qinghua",
+                "简介": "Renowned terrestrial mollusk collector"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "Atrium Glass House",
+    "时间段": "27th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-15:00",
+        "序号": "",
+        "标题": "The Depths of the Shell —— The Beauty of Shells, Focus Stacking, and AIGC Art Experiments",
+        "召集人": [],
+        "环节": []
+      }
+    ]
+  },
+  {
+    "地点": "Yun Qi Eye",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "15:00-17:00",
+        "序号": "",
+        "标题": "Space Computing's Next Pardigm Shift: What Will It Be?",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Dr. Wahyudi Hasbi",
+                "简介": "Head of Satellite Center, National Research and Innovation Agency (BRIN), Indonesia"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Dr. Majed",
+                "简介": "Wakeb Data for Communication and Information Technology, Saudi Arabia"
+              }
+            ]
+          },
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Wen Zhuoming",
+                "简介": " Chairman, STAR.VISION"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "2050Museum",
+    "时间段": "26th Afternoon",
+    "活动": [
+      {
+        "时间": "14:00-17:30",
+        "序号": "",
+        "标题": "How does decentralized AI community operate?",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Huang Xiaodao",
+                "简介": "AI practitioner / Author of multiple best - selling AI books, CSGO Global Elite."
+              }
+            ]
+          },
+          {
+            "标题": "How does decentralized AI community operate?",
+            "人员": [
+              {
+                "姓名": "Huang Xiaodao",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Co-create the AI skill tree and everyone has an AI map.",
+            "人员": [
+              {
+                "姓名": "Huang Xiaodao",
+                "简介": ""
+              }
+            ]
+          },
+          {
+            "标题": "Practice of the AI Finger Game Project",
+            "人员": [
+              {
+                "姓名": "Liu Lang Shen Xian",
+                "简介": "AI practitioner, a digital nomad , a traveler in the intellectual universe."
+              }
+            ]
+          },
+          {
+            "标题": "Practice of the AI Desktop Pet Pomodoro Project",
+            "人员": [
+              {
+                "姓名": "Bai He",
+                "简介": "AI painting enthusiast as well as  game art designer"
+              }
+            ]
+          },
+          {
+            "标题": "Practice of AI plush toys.",
+            "人员": [
+              {
+                "姓名": "Penny",
+                "简介": "AI professional exploring overseas markets,free-spirited entrepreneurial traveler and a captain rides the waves."
+              }
+            ]
+          },
+          {
+            "标题": "Practicalof AI Content Overseas Expansion ",
+            "人员": [
+              {
+                "姓名": "Ao",
+                "简介": "AI professional and ai explorer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "地点": "2050Museum",
+    "时间段": "26th Night",
+    "活动": [
+      {
+        "时间": "19:00 - 22:00",
+        "序号": "",
+        "标题": "Carbon-based Exclusivity: Nighttime Meetup",
+        "召集人": [],
+        "环节": [
+          {
+            "标题": "Voulunteer ",
+            "人员": [
+              {
+                "姓名": "Huang Xiaodao",
+                "简介": "AI practitioner / Author of multiple best - selling AI books, CSGO Global Elite."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
