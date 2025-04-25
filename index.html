@@ -246,6 +246,9 @@
                 padding: 0;
                 font-size: 9pt;
                 background-color: white;
+                -webkit-print-color-adjust: exact !important; /* Chrome, Safari */
+                color-adjust: exact !important; /* Firefox */
+                print-color-adjust: exact !important; /* 未来标准 */
             }
             
             .search-container, .filter-container {
@@ -253,21 +256,68 @@
             }
             
             .location-group {
-                break-inside: avoid;
-                page-break-inside: avoid;
+                /* 移除这些避免分页的属性 */
+                /* break-inside: avoid;
+                page-break-inside: avoid; */
                 margin-bottom: 8px;
                 box-shadow: none;
                 border: 1px solid #ddd;
             }
             
             .activity {
-                break-inside: avoid;
-                page-break-inside: avoid;
+                /* 移除这些避免分页的属性 */
+                /* break-inside: avoid;
+                page-break-inside: avoid; */
+                background-color: var(--light-bg) !important; /* 强制保留背景色 */
             }
             
             header {
                 margin-bottom: 8px;
                 box-shadow: none;
+                background-color: var(--accent-color) !important; /* 强制保留背景色 */
+                color: var(--primary-color) !important;
+            }
+            
+            .location-header {
+                background-color: var(--primary-color) !important; /* 强制保留背景色 */
+                color: white !important;
+            }
+            
+            .activity-number {
+                background-color: var(--accent-color) !important; /* 强制保留背景色 */
+            }
+            
+            .share {
+                background-color: rgba(255, 251, 235, 0.5) !important; /* 强制保留背景色 */
+            }
+            
+            /* 添加这些样式以确保内容紧凑 */
+            .container {
+                max-width: 100%;
+                padding: 0;
+            }
+            
+            .location-group {
+                margin-bottom: 5px;
+            }
+            
+            .activity {
+                margin-bottom: 5px;
+                padding: 3px;
+            }
+            
+            /* 减少各元素间的间距 */
+            .activities {
+                padding: 3px;
+            }
+            
+            .conveners, .shares {
+                margin-top: 2px;
+            }
+            
+            .share {
+                margin-bottom: 2px;
+                padding: 2px 3px;
             }
         }
         
@@ -293,6 +343,36 @@
             <p class="note" style="font-size: 0.8rem; margin-top: 8px; color: #666; font-style: italic;">本文档为新生论坛内容的预览版，请大家一起来找茬。<br>
                 本版本包含了所有新生论坛，以及部分和新生论坛共享场地的热带雨林、思想约会。<br>
                 如果找到错误，请给 elfexu 发微信消息，并提供完整的正确信息。</p> -->
+            <style>
+                /* 添加语言切换按钮样式 */
+                .language-switch {
+                    margin-top: 8px;
+                    display: flex;
+                    justify-content: center;
+                    gap: 5px;
+                }
+                
+                .lang-btn {
+                    padding: 4px 12px;
+                    background-color: white;
+                    border: 1px solid var(--primary-color);
+                    border-radius: 4px;
+                    cursor: pointer;
+                    font-size: 0.85rem;
+                    transition: all 0.2s;
+                    color: var(--primary-color);
+                }
+                
+                .lang-btn:hover {
+                    background-color: var(--light-bg);
+                }
+                
+                .lang-btn.active {
+                    background-color: var(--primary-color);
+                    color: white;
+                    font-weight: bold;
+                }
+            </style>
             <div class="language-switch">
                 <button id="zh-btn" class="lang-btn">中文</button>
                 <button id="en-btn" class="lang-btn active">English</button>
@@ -323,10 +403,10 @@
                     title: '2050@2025 新生论坛',
                     subtitle: '年青就要最大声分享',
                     all: '全部',
-                    day26am: '26日上午',
-                    day26pm: '26日下午',
-                    day27am: '27日上午',
-                    day27pm: '27日下午',
+                    day26am: '26上午',
+                    day26pm: '26下午',
+                    day27am: '27上午',
+                    day27pm: '27下午',
                     loadError: '加载数据失败，请刷新页面重试。',
                     convener: '召集人:',
                     unspecifiedTopic: '未指定主题',
@@ -356,6 +436,9 @@
             // 设置语言切换按钮
             const zhBtn = document.getElementById('zh-btn');
             const enBtn = document.getElementById('en-btn');
+            
+            // 在页面加载时立即调用updateLanguage()来更新标题
+            updateLanguage();
             
             zhBtn.addEventListener('click', function() {
                 if (currentLang !== 'zh') {
@@ -434,13 +517,13 @@
                     let filterClass = '';
                     if (locationGroup.时间段) {
                         // 修改这里的条件判断，使其与JSON数据中的格式一致
-                        if (locationGroup.时间段.includes('26日上午') || locationGroup.时间段.includes('26th Morning')) 
+                        if (locationGroup.时间段.includes('26上午') || locationGroup.时间段.includes('26th Morning')) 
                             filterClass = 'filter-26-am';
-                        else if (locationGroup.时间段.includes('26日下午') || locationGroup.时间段.includes('26th Afternoon')) 
+                        else if (locationGroup.时间段.includes('26下午') || locationGroup.时间段.includes('26th Afternoon')) 
                             filterClass = 'filter-26-pm';
-                        else if (locationGroup.时间段.includes('27日上午') || locationGroup.时间段.includes('27th Morning')) 
+                        else if (locationGroup.时间段.includes('27上午') || locationGroup.时间段.includes('27th Morning')) 
                             filterClass = 'filter-27-am';
-                        else if (locationGroup.时间段.includes('27日下午') || locationGroup.时间段.includes('27th Afternoon')) 
+                        else if (locationGroup.时间段.includes('27下午') || locationGroup.时间段.includes('27th Afternoon')) 
                             filterClass = 'filter-27-pm';
                     }
                     locationElement.className += ' ' + filterClass;
